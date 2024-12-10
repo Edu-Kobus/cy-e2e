@@ -1,22 +1,22 @@
 Cypress (e2e)
 =========
 
-Instalação com [Cypress](https://www.cypress.io/)
+Installation with [Cypress](https://www.cypress.io/)
 --------
 
-### Pré-requisitos:
-Cypress requer [Node.js](https://nodejs.org/en) para ser instalado:
+### Prerequisites:
+Cypress requires [Node.js](https://nodejs.org/en) to be installed:
 * Node.js 18.x
-* Node.js 20.x ou superior
+* Node.js 20.x or higher
 
 ##### Linux (Ubuntu/Debian):
-Se estiver usando linux necessário instalar as seguintes dependências:
+If you are using Linux, you need to install the following dependencies:
 ~~~CLI
 apt-get install libgtk2.0-0 libgtk-3-0 libgbm-dev libnotify-dev libnss3 libxss1 libasound2 libxtst6 xauth xvfb
 ~~~
-Caso esteja utilizando outra versão consulte a doc official para mais informações em [_Installing Cypress_](https://docs.cypress.io/guides/getting-started/installing-cypress)
+If you are using another version, please consult the official documentation for more information at [_Installing Cypress_](https://docs.cypress.io/guides/getting-started/installing-cypress)
 
-### Comandos
-* Para instalar o cypress: `npm i cypress` ou `npm i cypress@latest` para instalar última versão disponível.
-* Para executar o Cypress em GUI: `npm run cy:open`
-* Para executar o cypress em modo _headless_: `npm run cy:run`
+### Commands
+* To install Cypress: `npm i cypress` or `npm i cypress@latest` to install the latest available version.
+* To run Cypress in GUI mode: `npm run cy:open`
+* To run Cypress in headless mode: `npm run cy:run`
