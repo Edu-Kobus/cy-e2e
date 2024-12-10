@@ -1,0 +1,65 @@
+{
+	"cnpj": "80680093000343",
+	"name": "QA SISTEMAS S/A",
+	"fantasyName": "QA SISTEMAS S/A",
+	"companySize": "DEMAIS",
+	"annualIncome": "161757570.00",
+	"birthDate": "2001-09-24",
+	"address": {
+		"addressType": "RUA",
+		"address": "CONCEICAO DE MONTE ALEGRE",
+		"number": "107",
+		"complement": "SALA  91",
+		"district": "CIDADE MONCOES",
+		"city": "São Paulo",
+		"stateShortName": "SP",
+		"cepCode": "04563060",
+		"latitude": "-23.6107266000000",
+		"longitude": "-46.6914650000000"
+	},
+	"contact": {
+		"phoneNumberOne": "32213300",
+		"phoneNumberTwo": "",
+		"email": "CONTROLADORIA@QA.COM.BR"
+	},
+	"cnae": {
+		"main": {
+			"code": "6201501",
+			"description": "Desenvolvimento de programas de computador sob encomenda"
+		},
+		"secondaries": [
+			{
+				"code": "8599603",
+				"description": "Treinamento em informática"
+			},
+			{
+				"code": "6202300",
+				"description": "Desenvolvimento e licenciamento de programas de computador customizáveis"
+			},
+			{
+				"code": "6203100",
+				"description": "Desenvolvimento e licenciamento de programas de computador não customizáveis"
+			},
+			{
+				"code": "6204000",
+				"description": "Consultoria em tecnologia da informação"
+			},
+			{
+				"code": "6209100",
+				"description": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+			},
+			{
+				"code": "6311900",
+				"description": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet"
+			},
+			{
+				"code": "7020400",
+				"description": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+			},
+			{
+				"code": "7490104",
+				"description": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+			}
+		]
+	}
+}

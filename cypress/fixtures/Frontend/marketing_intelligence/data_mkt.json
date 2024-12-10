@@ -1,0 +1,28 @@
+{
+    "filtro" : {
+        "nome": "QA Sistemas",
+        "cnpj": "80680093000181",
+        "seg_atividade": "INFORMAÇÃO E COMUNICAÇÃO",
+        "sub_seg_atividade": "ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "cnae_principal": "Desenvolvimento de programas",
+        "nat_juridica": "Entidades Empresariais",
+        "classe_nat_juridica": "Sociedade Anônima Fechada",
+        "cap_social": "Maior que",
+        "valor": "100000",
+        "porte_empresa": "Medias e Grandes",
+        "data_abertura_inicio": "01/01/1950",
+        "dada_abertura_fim": null,
+        "estado": "SANTA CATARINA",
+        "cidade": "Blumenau",
+        "bairro": "Victor Konder",
+        "endereco" : "Rua São Paulo",
+
+        "zip_start": "88200000",
+        "zip_end": "88220000",
+        "zip_single": "89030050",
+        "label_export_singular": "Ver registro selecionado",
+        "label_export_plural": "Ver registros selecionados",
+        "message_no_account" : "Nenhum cliente foi selecionado para a exportação. Utilize os filtros para obter novos resultados e selecionar para a exportação.",
+        "message_content" : "QA SISTEMAS S/A foi adicionado à sua lista de exportação."
+    }
+}

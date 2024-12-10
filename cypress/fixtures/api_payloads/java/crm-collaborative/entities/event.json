@@ -1,0 +1,32 @@
+{
+	"id": 1,
+	"companyBranch": {
+		"id": 1,
+		"company": {
+			"id": 1
+		},
+		"branch": {
+			"id": 1
+		}
+	},
+	"user": {
+		"id": 1
+	},
+	"eventType": {
+		"id": 1,
+		"companyBranch": {
+			"id": 1
+		},
+		"customFields": {
+			"teste": "teste 2"
+		}
+	},
+	"status": {
+		"id": 1
+	},
+	"description": "Event test review PUT",
+	"startDate": "2022-03-29T00:00:00Z",
+	"endDate": "2022-03-31T00:00:00Z",
+	"startHour": "1970-01-01T22:00:00Z",
+	"endHour": "1970-01-01T23:20:00Z"
+}

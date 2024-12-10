@@ -1,0 +1,17 @@
+{
+	"id": 1,
+	"name": "NÃO INFORMADO",
+	"active": true,
+	"generateInstallments": false,
+	"quantityInstallments": 0,
+	"accrualInstallments": 0.0,
+	"rounding": 0,
+	"customFields": [],
+	"company": {
+		"id": 1,
+		"idErp": "1",
+		"name": "Devolpment",
+		"fantasyName": "Devolpment",
+		"cnpj": "53788753000170"
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1
+      },
+      "branch": {
+        "id": 1
+      }
+    },
+    "name": "Test Follow API JAVA - Cypress",
+    "active": true,
+    "slaHours": 1,
+    "module": 1,
+    "customFields": {
+      "name": "Onething"
+    }
+  }

@@ -1,0 +1,17 @@
+{
+	"id": 1,
+	"empresa": {
+		"id": 1,
+		"empresaErp": "1",
+		"razaoSocial": "Devolpment",
+		"nomeFantasia": "Devolpment",
+		"cnpj": "53788753000170"
+	},
+	"filial": {
+		"filialErp": "1",
+		"razaoSocial": "Test API company-branch-v2",
+		"nomeFantasia": "Cypress",
+		"cnpj": "53788753000170",
+		"matriz": 1
+	}
+}

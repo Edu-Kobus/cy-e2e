@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "businessType Test API - Cypress",
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1
+      },
+      "branch": {
+        "id": 1
+      }
+    },
+    "active": true,
+    "note": "teste",
+    "customFields": {
+        "teste": "field Test"
+    }
+  }

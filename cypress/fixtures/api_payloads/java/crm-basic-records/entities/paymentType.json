@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "Payment Type - Test API Cypress",
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1
+      },
+      "branch": {
+        "id": 1
+      }
+    },
+    "active": true,
+    "addedValue": 1,
+    "customFields": {
+        "teste": "test"
+    }
+  }

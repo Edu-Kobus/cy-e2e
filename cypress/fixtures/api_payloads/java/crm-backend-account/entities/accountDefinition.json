@@ -1,0 +1,35 @@
+{
+	"id": 1,
+	"receiveEmail": true,
+	"receiveSurvey": true,
+	"receiveTrackEmail": true,
+	"rating": {
+		"id": 1,
+		"name": "A",
+		"active": true
+	},
+	"account": {
+		"id": 1
+	},
+	"accountType": {
+		"id": 1,
+		"company": {
+			"id": 1
+		}
+	},
+	"companyBranch": {
+		"id": 1,
+		"company": {
+			"id": 2
+		},
+		"branch": {
+			"id": 3
+		}
+	},
+	"status": {
+		"id": 1,
+		"name": "Ativo",
+		"active": 1,
+		"icon": "fa fa-lg fa-check"
+	}
+}

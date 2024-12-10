@@ -1,0 +1,9 @@
+{
+	"id": 1,
+	"idErp": "0",
+	"nome": "Cypress Company Groups Cypress",
+	"ativo": true,
+	"empresa": {
+		"id": 1
+	}
+}

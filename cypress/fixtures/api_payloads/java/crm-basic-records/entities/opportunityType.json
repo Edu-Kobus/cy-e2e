@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "idErp": "12",
+    "name": "Opportunity Type - Test API",
+    "companyBranch": {
+      "id": 1
+    },
+    "active": true,
+    "note": "Note testing",
+    "customFields": {
+        "test": "customField Testing"
+    }
+  }

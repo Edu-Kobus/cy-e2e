@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "agendadores_externos": null,
+    "usuario_agendador": {
+        "valor": "3",
+        "nome": "Jenkins "
+    },
+    "categoria": {
+        "nome": "Agenda Externa",
+        "valor": "14000"
+    },
+    "conta": null,
+    "propriedade": null,
+    "solicita_aceite": 1,
+    "notificar_email": 1,
+    "oculto": 0,
+    "data_inicio": "12/04/2022",
+    "tipo_recorrencia": "1",
+    "intervalo_recorrencia": 1,
+    "recorrencia_semanal": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true
+    },
+    "recorrencia_mensal_anual": "0",
+    "atividade": "1",
+    "prioridade": "1",
+    "status": "0",
+    "participantes_externos_show": false,
+    "assunto": "teste api",
+    "hora_inicio": "18:30",
+    "hora_fim": "18:30"
+}

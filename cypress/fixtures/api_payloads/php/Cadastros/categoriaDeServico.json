@@ -1,0 +1,9 @@
+{
+	"id": 1,
+	"idErp": "698dc19d489c4e4db73e28a713eab07b",
+	"nome": "Cypress - ServiceCategory test API",
+	"ativo": true,
+	"empresa": {
+		"id": 1
+	}
+}

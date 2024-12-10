@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Account Status Test API - Cypress",
+    "active": 1,
+    "customFields": {
+        "teste": "customFields Campos"
+    },
+    "icon": "string"
+  }

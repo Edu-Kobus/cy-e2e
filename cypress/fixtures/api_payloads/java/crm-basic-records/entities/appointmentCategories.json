@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "name": "string",
+    "active": true,
+    "customFields": {
+        "test": "teste"
+    }
+  }

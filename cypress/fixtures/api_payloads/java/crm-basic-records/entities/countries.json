@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "idErp": "1",
+    "name": "Country API Test JAVA - Cypress",
+    "active": true,
+    "customFields": {
+        "teste": "customFIeld"
+    }
+  }

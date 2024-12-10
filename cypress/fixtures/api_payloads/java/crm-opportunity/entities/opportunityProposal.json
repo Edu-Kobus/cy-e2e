@@ -1,0 +1,139 @@
+{
+  "id": 1,
+  "opportunity": {
+    "id": 9
+  },
+  "date": "2022-09-29T17:58:24.278Z",
+  "hour": "2022-09-29T17:58:24.278Z",
+  "proposalNumber": "99130",
+  "orderNumber": "string",
+  "proposalReview": 1,
+  "shortName": "string",
+  "template": 1,
+  "user": {
+    "id": 1,
+    "idErp": "string",
+    "name": "string",
+    "lastName": "string",
+    "functionDescription": "string",
+    "photo": "string",
+    "email": "string",
+    "active": true
+  },
+  "recipientType": 1,
+  "contactId": 4419,
+  "recipientName": "string",
+  "recipientDepartment": "string",
+  "recipientPhone": "string",
+  "recipientEmail": "string",
+  "recipientEmailCc": "string",
+  "recipientEmailBcc": "string",
+  "shippingStatus": true,
+  "proposalStatus": 1,
+  "shippingDate": "2022-09-29T17:58:24.278Z",
+  "shippingTime": "2022-09-29T17:58:24.278Z",
+  "paymentTerm": {
+    "id": 1
+  },
+  "paymentMethod": 1,
+  "paymentType": 1,
+  "ipi": "string",
+  "icms": "string",
+  "pis": "string",
+  "cofins": "string",
+  "suframa": "string",
+  "freeZone": "string",
+  "redispatch": {
+    "id": 1,
+    "idErp": "string",
+    "name": "string",
+    "active": true,
+    "customFields": {},
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1,
+        "companyErp": "string",
+        "name": "string",
+        "fantasyName": "string",
+        "cnpj": "string",
+        "nit": "string"
+      },
+      "branch": {
+        "id": 1,
+        "branchErp": "string",
+        "name": "string",
+        "fantasyName": "string",
+        "cnpj": "string",
+        "parent": 1,
+        "nit": "string"
+      }
+    }
+  },
+  "shippingType": 1,
+  "shippingTypeOther": "string",
+  "valueShipping": 1,
+  "warrantly": "string",
+  "validity": "string",
+  "delivery": "string",
+  "groupCategory": true,
+  "sendCopy": true,
+  "showValues": true,
+  "notes": "string",
+  "inputValue": 1,
+  "languageLayout": 1,
+  "cpUser1Column": "string",
+  "installments": 1,
+  "tax": 1,
+  "exchangeRate": 1,
+  "exchangeRateConvert": 1,
+  "installmentValue": 1,
+  "documents": "string",
+  "emailText": "string",
+  "sellerUser": {
+    "id": 1,
+    "idErp": "string",
+    "name": "string",
+    "lastName": "string",
+    "functionDescription": "string",
+    "photo": "string",
+    "email": "string",
+    "active": true
+  },
+  "representativeUser": {
+    "id": 1,
+    "idErp": "string",
+    "name": "string",
+    "lastName": "string",
+    "functionDescription": "string",
+    "photo": "string",
+    "email": "string",
+    "active": true
+  },
+  "timestampRegistration": "2022-09-29T17:58:24.278Z",
+  "operatorRegistration": {
+    "id": 1,
+    "name": "string",
+    "lastName": "string",
+    "functionDescription": "string",
+    "email": "string",
+    "active": true
+  },
+  "timestampChange": "2022-09-29T17:58:24.278Z",
+  "operatorChange": {
+    "id": 1,
+    "name": "string",
+    "lastName": "string",
+    "functionDescription": "string",
+    "email": "string",
+    "active": true
+  },
+  "validProposal": 1,
+  "groupPeoductService": true,
+  "proposalDiscountValue": 0,
+  "costCenter": "string",
+  "customFields": {
+    "teste": "campo customizado"
+  },
+  "appId": "string"
+}

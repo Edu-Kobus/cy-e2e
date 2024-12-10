@@ -1,0 +1,15 @@
+{
+	"id": 1,
+	"name": "Cypress API Test - OccurrenceType",
+	"active": true,
+	"companyBranch": {
+		"id": 1,
+		"company": {
+			"id": 1
+		},
+		"branch": {
+			"id": 1
+		}
+	},
+	"sla": 1
+}

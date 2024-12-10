@@ -1,0 +1,15 @@
+{
+	"id": 1,
+    "idErp": "1234",
+	"nome": "Cypress API Test - php v2",
+	"ativo": true,
+	"empresaFilial": {
+		"id": 1,
+		"empresa": {
+			"id": 1
+		},
+		"filial": {
+			"id": 1
+		}
+	}
+}

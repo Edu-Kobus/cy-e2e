@@ -1,0 +1,31 @@
+{
+    "tipo_endereco": {
+        "nome": "Cobrança",
+        "valor": "2"
+    },
+    "pais": {
+        "nome": "BRASIL",
+        "valor": "1"
+    },
+    "estado": {
+        "nome": "RN - RIO GRANDE DO NORTE",
+        "valor": "20"
+    },
+    "cidade": {
+        "nome": "Parnamirim",
+        "valor": "1111",
+        "pais": "1",
+        "estado": "20"
+    },
+    "ativo": 1,
+    "principal": 0,
+    "cep": "59150810",
+    "endereco": "Rua Eugênio Alberto Lira Silva",
+    "complemento": "Apto",
+    "bairro": "Nova Parnamirim",
+    "numero": "100",
+    "conta": "1",
+    "origem": {
+        "conta": "1"
+    }
+}

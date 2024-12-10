@@ -1,0 +1,8 @@
+{
+	"id": 1,
+	"nome": "Cypress - Product Category Test",
+	"ativo": true,
+	"empresa": {
+		"id": 1
+	}
+}

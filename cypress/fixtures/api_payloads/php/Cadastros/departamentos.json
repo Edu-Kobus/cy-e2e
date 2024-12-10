@@ -1,0 +1,9 @@
+{
+	"id": 1,
+	"nome": "Cypress - Department test API",
+	"ativo": true,
+	"usaOcorrencia": true,
+	"empresaFilial": {
+		"id": 1
+	}
+}

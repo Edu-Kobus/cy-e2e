@@ -1,0 +1,33 @@
+{
+	"id": 1,
+	"user": {
+		"id": 3
+	},
+	"account": {
+		"id": 1,
+		"personType": {
+			"id": 1
+		},
+		"companySize": {
+			"id": 1
+		},
+		"activityBranch": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"companyGroup": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"origin": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		}
+	}
+}

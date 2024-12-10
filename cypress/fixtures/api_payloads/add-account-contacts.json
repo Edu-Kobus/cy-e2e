@@ -1,0 +1,65 @@
+{
+    "ativo": "1",
+    "visibilidade": "1",
+    "nome": "Cypress POST",
+    "tratamento": "Teste",
+    "genero": "0",
+    "zip_code": "99820",
+    "endereco": "Cypress POST",
+    "numero": "100",
+    "complemento": "Em BNU",
+    "bairro": "Centro",
+    "cpf": "5454",
+    "rg": "5454",
+    "telefone": "1222",
+    "telefone_corporativo": "1",
+    "ramal": "144",
+    "celular": "232",
+    "celular_corporativo": 1,
+    "celular_whatsapp": 1,
+    "operadora": {
+        "nome": "Claro",
+        "valor": "1"
+    },
+    "email": "teste@com.br",
+    "email_corporativo": "1",
+    "recebe_campanha": "1",
+    "recebe_pesquisa": "1",
+    "skype": "skype.com/",
+    "twitter": "tt.com/",
+    "facebook": "fb.com//",
+    "data_nascimento": "14/10/2021",
+    "nivel_decisao": "2",
+    "parecer_empresa": "1",
+    "motivo_parecer_empresa": "SEM MOTIVO",
+    "observacao": "Teste",
+    "departamento": {
+        "nome": "Comercial",
+        "valor": "6"
+    },
+    "funcao": {
+        "nome": "Diretor",
+        "valor": "4"
+    },
+    "origem_contato": {
+        "nome": "Email",
+        "valor": "4"
+    },
+    "empresa_filial": {
+        "valor": "1",
+        "nome": "1 - Matriz",
+        "empresa": "1",
+        "empresa_erp": "1",
+        "filial_erp": "1"
+    },
+    "empresa": {
+        "valor": "1",
+        "nome": "1 - Devolpment",
+        "empresa_erp": "1"
+    },
+    "conta": 1,
+    "contato_superior": null,
+    "pais": null,
+    "estado": null,
+    "cidade": null
+}   

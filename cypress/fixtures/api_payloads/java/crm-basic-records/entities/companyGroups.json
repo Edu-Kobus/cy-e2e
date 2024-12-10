@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "idErp": "string",
+    "name": "Company Groups - Test API Cypress",
+    "company": {
+      "id": 1
+    },
+    "active": true,
+    "customFields": {
+        "teste": "customFields Test"
+    }
+  }

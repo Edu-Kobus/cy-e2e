@@ -1,0 +1,78 @@
+{
+    "idErp": "string",
+    "name": "User Cypress API Test",
+    "lastName": "Cy",
+    "functionDescription": "automation testing",
+    "type": 1,
+    "receivesOpportunityHierarchyNotification": true,
+    "receivesOccurrenceHierarchyNotification": true,
+    "photo": "no",
+    "email": "teste@teste.com.br",
+    "telephone": "no",
+    "cellphone": "no",
+    "birthday": "2022-11-09T19:35:48.135Z",
+    "active": true,
+    "visibleCombo": true,
+    "legacyId": 1,
+    "language": 1,
+    "department": {
+      "id": 1,
+      "companyBranch": {
+        "id": 1,
+        "company": {
+          "id": 1
+        },
+        "branch": {
+          "id": 1
+        }
+      }
+    },
+    "function": {
+      "id": 1,
+      "idErp": "string",
+      "company": {
+        "id": 1
+      }
+    },
+    "superior": {
+      "id": 1
+    },
+    "userCompanyBranches": [
+      {
+        "id": 1,
+        "standardCompanyBranch": true,
+        "user": {
+          "id": 1
+        },
+        "companyBranch": {
+          "id": 1,
+          "company": {
+            "id": 1
+          },
+          "branch": {
+            "id": 1
+          }
+        }
+      }
+    ],
+    "ids": [
+      {
+        "id": 1,
+        "code": "string"
+      }
+    ],
+    "groups": [
+      {
+        "id": 1,
+        "user": {
+          "id": 1
+        },
+        "group": {
+          "id": 7,
+          "company": {
+            "id": 1
+          }
+        }
+      }
+    ]
+  }

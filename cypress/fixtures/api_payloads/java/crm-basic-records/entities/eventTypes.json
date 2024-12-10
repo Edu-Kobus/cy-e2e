@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Teste",
+    "companyBranch": {
+    "id": 1,
+    "companyErp": "Company",
+    "branchErp": "Branch"
+    },
+    "active": true,
+    "customFields": {
+        "name": "Onething"
+    }
+}

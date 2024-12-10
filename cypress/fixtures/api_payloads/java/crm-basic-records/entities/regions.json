@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1
+      },
+      "branch": {
+        "id": 1
+      }
+    },
+    "name": "Test API Java - Name",
+    "active": 1,
+    "customFields": {
+        "name": "Custom Fields Name"
+    }
+  }

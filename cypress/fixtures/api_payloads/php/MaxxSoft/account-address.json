@@ -1,0 +1,31 @@
+{
+    "tipo_endereco": {
+        "nome": "Entrega",
+        "valor": "1"
+    },
+    "pais": {
+        "nome": "BRASIL",
+        "valor": "1"
+    },
+    "estado": {
+        "nome": "SP -\nSÃƒO PAULO",
+        "valor": "25"
+    },
+    "cidade": {
+        "nome": "Pereira Barreto",
+        "valor": "3689",
+        "pais": "1",
+        "estado": "25"
+    },
+    "ativo": 1,
+    "principal": 0,
+    "cep": "15371360",
+    "endereco": "R GENERAL OZORIO",
+    "complemento": "SALA 02",
+    "bairro": "JARDIM IMPERADOR",
+    "numero": "1294",
+    "conta": "1",
+    "origem": {
+        "conta": "1"
+    }
+}

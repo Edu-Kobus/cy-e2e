@@ -1,0 +1,20 @@
+{
+    "id": 1,
+	"descricao": "test review edu2 reduzido",
+	"dataInicio": "2022-03-29T00:00:00.000000Z",
+	"horaInicio": "1970-01-01T22:00:00.000000Z",
+	"dataTermino": "2022-03-31T00:00:00.000000Z",
+	"horaTermino": "1970-01-01T23:20:00.000000Z",
+	"usuario": {
+		"id": 1
+	},
+	"empresaFilial": {
+		"id": 1
+	},
+	"status": {
+		"id": 1
+	},
+	"tipoEvento": {
+		"id": 1
+	}
+}

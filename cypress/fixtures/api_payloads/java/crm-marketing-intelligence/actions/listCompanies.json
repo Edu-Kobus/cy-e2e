@@ -1,0 +1,42 @@
+{
+    "page": 0,
+    "filters": [
+        {
+            "key": "companies.id_receita_companies",
+            "logicalOperator": "AND",
+            "relationalOperator": "EQUAL",
+            "value": [
+                "80680093000181"
+            ]
+        }
+    ],
+
+    "companies": [
+        {
+            "cnpj": "80680093000181",
+            "name": "QA SISTEMAS S/A",
+            "annualIncome": "165058790.00",
+            "address": {
+                "latitude": "-26.9141957000000",
+                "longitude": "-49.0706746000000",
+                "city": {
+                    "name": "Blumenau",
+                    "state": {
+                        "stateShortName": "SC"
+                    }
+                }
+            },
+            "cnae": {
+                "main": {
+                    "description": "Desenvolvimento de programas de computador sob encomenda"
+                }
+            },
+            "export": 0
+        }
+    ],
+    "listInformation": {
+        "totalElements": 1,
+        "totalPages": 1,
+        "currentPage": 0
+    }
+}

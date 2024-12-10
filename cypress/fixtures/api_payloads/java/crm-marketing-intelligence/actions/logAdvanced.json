@@ -1,0 +1,6 @@
+{
+    "auth": true,
+    "consultaTela": true,
+    "consultaMapa": true,
+    "export": true
+}

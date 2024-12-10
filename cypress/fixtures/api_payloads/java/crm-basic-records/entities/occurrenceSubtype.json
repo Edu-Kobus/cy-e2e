@@ -1,0 +1,18 @@
+{
+	"id": 6,
+	"name": "Cypress API Test - OccurrenceSubtype",
+	"active": true,
+	"companyBranch": {
+		"id": 1,
+		"company": {
+			"id": 1
+		},
+		"branch": {
+			"id": 1
+		}
+	},
+	"sla": 0,
+	"occurrenceType": {
+		"id": 1
+	}
+}

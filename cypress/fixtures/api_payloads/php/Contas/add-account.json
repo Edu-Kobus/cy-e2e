@@ -1,0 +1,21 @@
+{
+    "nome": "Cypress",
+    "fantasia": "Cypress.io",
+    "cnpj": "42.191.830/0001-95",
+    "cpf": "99999999999",
+    "rg": "999999",
+    "ramo_atividade": "1",
+    "inscricao_estadual": "12345",
+    "inscricao_municipal": "944.538.565.200",
+    "porte_empresa": "1",
+    "url": "www.url.com.br",
+    "email_geral": "eduardo.kobus@com",
+    "email_financeiro": "eduardo.kobus@com",
+    "receita_anual": "1234",
+    "funcionarios": "1234",
+    "tipo_pessoa": 1,
+    "grupo_empresa": 1,
+    "origem": 1,
+    "data_nascimento": "21/08/1999",
+    "ativo": "1"
+ }

@@ -1,0 +1,9 @@
+{
+    "id": 8,
+    "nome": "Test API - Cypress - aaaa PUT",
+    "ativo": true,
+    "camposCustomizados": {},
+    "empresa": {
+        "id": 1
+    }
+}

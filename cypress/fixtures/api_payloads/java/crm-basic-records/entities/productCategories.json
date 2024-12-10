@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "idErp": "1",
+    "company": {
+      "id": 1
+    },
+    "name": "TESTE API",
+    "active": true,
+    "customFields": {
+       "nome": "Teste"
+    }
+  }

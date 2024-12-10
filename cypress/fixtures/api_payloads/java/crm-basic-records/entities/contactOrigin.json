@@ -1,0 +1,8 @@
+{
+	"id": 1,
+	"name": "teste",
+	"company": {
+		"id": 1
+	},
+	"active": true
+}

@@ -1,0 +1,26 @@
+{
+    "dataInitial": "01/01/1999",
+    "dataEnd": "01/12/2022",
+    "hourInitial": "00:00",
+    "hourEnd": "23:59",
+    "note": "Teste",
+
+    "document": {
+        "title": "Doc teste",
+        "typeDocument": "Cartão CNPJ",
+        "documentNumber": "1",
+        "review": "2",
+        "typeUpload": " Anexar Link Externo",
+        "save": " Link Externo",
+        "url": "https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/provider/image/9/-logo.png"
+    },
+
+    "expense": {
+        "description": "Despesa Teste",
+        "value": "1"
+    },
+    "attendees": {
+        "user": "Jenkins",
+        "function": "Diretor"
+    }
+}

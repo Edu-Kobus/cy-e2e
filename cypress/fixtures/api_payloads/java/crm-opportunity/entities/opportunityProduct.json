@@ -1,0 +1,155 @@
+{
+	"id": 1,
+	"proposal": {
+		"id": 3
+	},
+	"purposeId": 1,
+	"companyId": 1,
+	"sequentialErp": 1,
+	"proposalReview": 1,
+	"product": {
+	  "id": 1,
+	  "name": "string",
+	  "derivationName": "string",
+	  "partNumber": "1",
+	  "ncm": "string",
+	  "derivationPartNumber": "string",
+	  "active": true,
+	  "saleValue": 1,
+	  "maxDescount": 1,
+	  "standardQuantity": 1,
+	  "correctionFactor": 1,
+	  "saleType": true,
+	  "ipi": "1",
+	  "icms": "1",
+	  "weight": 1,
+	  "currencyId": 1,
+	  "tax": 1,
+	  "notes": "string",
+	  "origin": "string",
+	  "customFields": {
+		"teste": "campo-customizado"
+	  },
+	  "measurementUnit": {
+		"id": 1,
+		"name": "string",
+		"initials": "string",
+		"active": true,
+		"customFields": {
+			"teste": "campo-customizado"
+		  }
+	  },
+	  "company": {
+		"id": 1,
+		"companyErp": "string",
+		"name": "string",
+		"fantasyName": "string",
+		"cnpj": "string",
+		"nit": "string"
+	  }
+	},
+	"quantity": 1,
+	"deposit": {
+	  "id": 8,
+	  "idErp": "string",
+	  "name": "string",
+	  "active": true,
+	  "customFields": {
+		"teste": "campo-customizado"
+	  },
+	  "companyBranch": {
+		"id": 1,
+		"company": {
+		  "id": 1,
+		  "companyErp": "string",
+		  "name": "string",
+		  "fantasyName": "string",
+		  "cnpj": "23.967.615/0001-97",
+		  "nit": "1"
+		},
+		"branch": {
+		  "id": 1,
+		  "branchErp": "string",
+		  "name": "string",
+		  "fantasyName": "string",
+		  "cnpj": "string",
+		  "parent": 1,
+		  "nit": "string"
+		}
+	  }
+	},
+	"priceTable": {
+	  "id": 1,
+	  "idErp": "string",
+	  "name": "string",
+	  "active": true,
+	  "customFields": {
+		"teste": "campo-customizado"
+	  },
+	  "companyBranch": {
+		"id": 1,
+		"company": {
+		  "id": 1,
+		  "companyErp": "string",
+		  "name": "string",
+		  "fantasyName": "string",
+		  "cnpj": "string",
+		  "nit": "string"
+		},
+		"branch": {
+		  "id": 1,
+		  "branchErp": "string",
+		  "name": "string",
+		  "fantasyName": "string",
+		  "cnpj": "string",
+		  "parent": 1,
+		  "nit": "string"
+		}
+	  }
+	},
+	"saleType": 1,
+	"saleValue": 1,
+	"applyFactor": true,
+	"discountValue": 1,
+	"discountPercentage": 1,
+	"taxValue": 1,
+	"showValue": true,
+	"showPhoto": true,
+	"showAttachment": true,
+	"notes": "string",
+	"timestampRegistration": "2022-09-29T18:52:50.637Z",
+	"operatorRegistration": {
+	  "id": 1,
+	  "name": "string",
+	  "lastName": "string",
+	  "functionDescription": "string",
+	  "email": "string",
+	  "active": true
+	},
+	"timestampChange": "2022-09-29T18:52:50.637Z",
+	"operatorChange": {
+	  "id": 1,
+	  "name": "string",
+	  "lastName": "string",
+	  "functionDescription": "string",
+	  "email": "string",
+	  "active": true
+	},
+	"integratedItem": 1,
+	"invoicedQuantity": 1,
+	"canceledQuantity": 1,
+	"ipi": 1,
+	"icms": 1,
+	"icmsSt": 1,
+	"pis": 1,
+	"cofins": 1,
+	"iss": 1,
+	"inss": 1,
+	"irrf": 1,
+	"freeZone": 1,
+	"suframa": 1,
+	"freightApportionment": 1,
+	"customFields": {
+		"teste": "campo-customizado"
+	}
+  }

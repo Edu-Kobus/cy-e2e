@@ -1,0 +1,63 @@
+{
+	"main": true,
+	"account": {
+		"id": 1,
+		"personType": {
+			"id": 2
+		},
+		"companySize": {
+			"id": 2
+		},
+		"activityBranch": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"companyGroup": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"origin": {
+			"id": 3,
+			"company": {
+				"id": 1
+			}
+		},
+		"passport": "526525"
+	},
+	"address": {
+		"active": true,
+		"name": "Rua Pastor Oswald Hesse - #1231 - 89015101",
+		"address": "Rua Pastor Oswald Hesse",
+		"number": "#1231",
+		"complement": "de 916/917 ao fim",
+		"district": "Ribeirão Fresco",
+		"cep": "89015101",
+		"latitude": -26.928007,
+		"longitude": -49.045632,
+		"type": {
+			"id": 2,
+			"companyBranch": {
+				"id": 1,
+				"company": {
+					"id": 1
+				},
+				"branch": {
+					"id": 1
+				}
+			}
+		},
+		"city": {
+			"id": 4348,
+			"state": {
+				"id": 24,
+				"country": {
+					"id": 1
+				}
+			}
+		}
+	}
+}

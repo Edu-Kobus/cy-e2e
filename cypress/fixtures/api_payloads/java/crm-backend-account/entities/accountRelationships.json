@@ -1,0 +1,50 @@
+{
+	"id": 1,
+	"status": true,
+	"fatherAccount": {
+		"id": 1,
+		"personType": {
+			"id": 1
+		},
+		"activityBranch": {
+			"id": 2708
+		},
+		"origin": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		}
+	},
+	"childAccount": {
+		"id": 1,
+		"personType": {
+			"id": 2
+		},
+		"companySize": {
+			"id": 2
+		},
+		"activityBranch": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"companyGroup": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"origin": {
+			"id": 3,
+			"company": {
+				"id": 1
+			}
+		},
+		"passport": "526525"
+	},
+	"relationshipType": {
+		"id": 3
+	}
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Teste GUI Cypress",
+    "label": {
+        "campaignStatus": "Status da campanha",
+        "campaignType": "Tipo da Campanha",
+        "campaignTypeModal": "Tipo de Campanha",
+        "expectedRevenue": "Receita esperada",
+        "expectedAnswer": "Resposta esperada",
+        "estimatedCost": "Custo estimado",
+        "realCost": "Custo real",
+        "scheduling": "Data/hora de agendamento",
+        "targetAudienceType": "Tipo de público alvo",
+        "note": "Observação",
+        "filterTitle": "Filtrar Contas",
+        "template": "Template para o email marketing",
+        "mailTestButton": "Enviar e-mail teste",
+        "mailTestButtonContinue": "Continuar",
+        "panelAttachment": "Adicione anexos para serem enviados no e-mail"
+    },
+    "options": {
+        "targetAudienceType": {
+            "accountAndContacts": "Contas e Contatos",
+            "onlyMainAccountEmail": "Somente e-mail principal da Conta",
+            "onlyContactsOfAccount": "Somente os contatos da conta"
+        },
+        "senderOptions": {
+            "smtp": "SMTP",
+            "accountResponsable": "Responsável da Conta",
+            "manual": "Manual"
+        },
+        "messageType": {
+            "textMessage": "Mensagem do tipo texto",
+            "html": "HTML Importado",
+            "templateMessage": "Mensagem do tipo Template"
+        }
+    },
+    "campaignStatus": {
+        "note": "Rascunho",
+        "planned": "Planejado",
+        "preparing": "Preparando"
+    },
+    "account": {
+        "title": "Nenhuma conta selecionada",
+        "description": "Não há contas selecionadas. Utilize o botão Adicionar Contas para selecionar as contas que serão utilizadas no envio do E-mail Marketing.",
+        "addAccount": " Adicionar Contas "
+    },
+    "emailBody": {
+        "senderOption": "Opção de Resposta",
+        "subject": "Subject Test Automated",
+        "messageType": "Tipo da mensagem"
+    },
+    "template": {
+        "modalTitle": "Pesquisar template",
+        "templateName": "Test"
+    },
+    "sendMailTestModal": "Você tem certeza de que deseja enviar um e-mail de teste?"
+}

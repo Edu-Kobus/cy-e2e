@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "idErp": "string",
+    "ibgeCode": "0",
+    "name": "Cities Test API - Cypress",
+    "active": true,
+    "dddCode": "0",
+    "population": 1.0,
+    "estimatedPopulation": 2.0,
+    "consumptionPotencial": 3.0,
+    "pib": 3332.2,
+    "customFields": {
+        "teste": "teste"
+    },
+    "state": {
+      "id": 1
+    },
+    "country": {
+      "id": 1
+    }
+  }

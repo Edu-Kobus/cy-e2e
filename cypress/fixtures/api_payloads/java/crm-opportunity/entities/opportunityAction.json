@@ -1,0 +1,122 @@
+{
+    "id": 1,
+    "opportunity": {
+        "id": 9
+    },
+    "actionType": {
+      "id": 1,
+      "name": "string",
+      "notes": "string",
+      "strategicAction": true,
+      "usesOpportunity": true,
+      "usesOccurrence": true,
+      "usesContract": true,
+      "usesEvent": true,
+      "companyBranch": {
+        "id": 1,
+        "company": {
+          "id": 1,
+          "companyErp": "string",
+          "name": "string",
+          "fantasyName": "string",
+          "cnpj": "string",
+          "nit": "string"
+        },
+        "branch": {
+          "id": 1,
+          "branchErp": "string",
+          "name": "string",
+          "fantasyName": "string",
+          "cnpj": "string",
+          "parent": 0,
+          "nit": "string"
+        }
+      }
+    },
+    "date": "2022-09-29T20:52:11.845Z",
+    "hour": "2022-09-29T20:52:11.845Z",
+    "changeOpportunity": true,
+    "phase": 0,
+    "lossReason": {
+      "id": 1,
+      "name": "string",
+      "active": true,
+      "companyBranch": {
+        "id": 1,
+        "company": {
+          "id": 1,
+          "companyErp": "string",
+          "name": "string",
+          "fantasyName": "string",
+          "cnpj": "string",
+          "nit": "string"
+        },
+        "branch": {
+          "id": 1,
+          "branchErp": "string",
+          "name": "string",
+          "fantasyName": "string",
+          "cnpj": "string",
+          "parent": 0,
+          "nit": "string"
+        }
+      }
+    },
+    "saleReason": {
+      "id": 1,
+      "name": "string",
+      "active": true,
+      "companyBranch": {
+        "id": 1,
+        "company": {
+          "id": 1,
+          "companyErp": "string",
+          "name": "string",
+          "fantasyName": "string",
+          "cnpj": "string",
+          "nit": "string"
+        },
+        "branch": {
+          "id": 1,
+          "branchErp": "string",
+          "name": "string",
+          "fantasyName": "string",
+          "cnpj": "string",
+          "parent": 0,
+          "nit": "string"
+        }
+      }
+    },
+    "probability": 0,
+    "proposalNumber": "string",
+    "orderNumber": "string",
+    "predictedClosingDate": "2022-09-29T20:52:11.846Z",
+    "effectiveDateClosing": "2022-09-29T20:52:11.846Z",
+    "predictedDeliveryDate": "2022-09-29T20:52:11.846Z",
+    "effectiveDeliveryDate": "2022-09-29T20:52:11.846Z",
+    "predictedValue": 0,
+    "closedValue": 0,
+    "predictedValueCurrency": 0,
+    "closedValueCurrency": 0,
+    "predictedQuantitative": 0,
+    "quantitativeAccomplished": 0,
+    "notes": "string",
+    "timestampRegistration": "2022-09-29T20:52:11.846Z",
+    "operatorRegistration": {
+      "id": 1,
+      "name": "string",
+      "lastName": "string",
+      "functionDescription": "string",
+      "email": "string",
+      "active": true
+    },
+    "timestampChange": "2022-09-29T20:52:11.846Z",
+    "operatorChange": {
+      "id": 1,
+      "name": "string",
+      "lastName": "string",
+      "functionDescription": "string",
+      "email": "string",
+      "active": true
+    }
+  }

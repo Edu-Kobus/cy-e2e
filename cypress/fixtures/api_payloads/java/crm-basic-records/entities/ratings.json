@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Rating Test API JAVA",
+    "icon": "icon",
+    "active": true,
+    "customFields": {
+        "name": "Custom Fields Name"
+    }
+  }

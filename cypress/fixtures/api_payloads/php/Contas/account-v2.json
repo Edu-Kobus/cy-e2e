@@ -1,0 +1,70 @@
+{
+	"nome": "Automated Test - API Account v2",
+	"fantasia": "Faker",
+	"inscricaoEstadual": "12345",
+	"inscricaoMunicipal": "9445385652",
+	"cnpj": "42.191.830\/0001-95",
+	"rg": "999999",
+	"url": "www.url.com.br",
+	"emailGeral": "Alcimar.Costa@yahoo.com",
+	"emailFinanceiro": "eduardo.kobus@com",
+	"funcionarios": 1,
+	"receitaAnual": 21.1,
+	"dataCadastro": "2022-04-29T00:00:00.000000Z",
+	"dataNascimento": "1999-08-21T00:00:00.000000Z",
+	"recebeEmail": false,
+	"recebePesquisa": false,
+	"recebeMonitoraEmail": false,
+	"ativo": true,
+	"tipoPessoa": {
+		"id": 1,
+		"nome": "Jurídica",
+		"icone": "fa fa-lg fa-building",
+		"ativo": true
+	},
+	"porteEmpresa": {
+		"id": 1,
+		"nome": "Pequeno",
+		"ativo": true
+	},
+	"ramoAtividade": {
+		"id": 1,
+		"nome": "NÃO INFORMADO",
+		"ativo": true,
+		"empresa": {
+			"id": 1,
+			"empresaErp": "1",
+			"razaoSocial": "Devolpment",
+			"nomeFantasia": "Devolpment",
+			"cnpj": "53788753000170"
+		}
+	},
+	"grupoEmpresa": {
+		"id": 1,
+		"idErp": "0",
+		"nome": "Não Informado",
+		"ativo": true,
+		"empresa": {
+			"id": 1,
+			"empresaErp": "1",
+			"razaoSocial": "Devolpment",
+			"nomeFantasia": "Devolpment",
+			"cnpj": "53788753000170"
+		}
+	},
+	"origem": {
+		"id": 1,
+		"nome": "APP",
+		"ativo": true,
+		"empresas": {
+			"id": 1,
+			"empresaErp": "1",
+			"razaoSocial": "Devolpment",
+			"nomeFantasia": "Devolpment",
+			"cnpj": "53788753000170"
+		}
+	},
+	"definicoes": [],
+	"enderecos": [],
+	"telefones": []
+}

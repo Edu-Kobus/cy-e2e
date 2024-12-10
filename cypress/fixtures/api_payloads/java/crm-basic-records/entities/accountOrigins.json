@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Account Origins Test API - Cypress",
+    "active": true,
+    "company": {
+        "id": 1
+    },
+    "customFields": {
+        "teste": "customField test"
+    }
+  }

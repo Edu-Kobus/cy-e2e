@@ -1,0 +1,33 @@
+{
+	"id": 2,
+	"dateTime": "2022-11-29T08:50:54Z",
+	"status": 1,
+	"content": "Teste",
+	"account": {
+		"id": 1,
+		"personType": {
+			"id": 1
+		},
+		"companySize": {
+			"id": 3
+		},
+		"activityBranch": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"companyGroup": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"origin": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		}
+	}
+}

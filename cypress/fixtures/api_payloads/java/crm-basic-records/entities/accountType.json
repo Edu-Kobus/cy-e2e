@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Account Type Test API - Cypress",
+    "active": true,
+    "icon": "string",
+    "color": "string",
+    "company": {
+        "id": 1
+    },
+    "customFields": {
+        "teste": "field Test"
+    }
+  }

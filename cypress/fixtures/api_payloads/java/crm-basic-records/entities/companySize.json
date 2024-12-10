@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "name": "Company Size Test API - Cypress",
+    "active": true,
+    "customFields": {
+        "teste": "teste"
+    }
+  }

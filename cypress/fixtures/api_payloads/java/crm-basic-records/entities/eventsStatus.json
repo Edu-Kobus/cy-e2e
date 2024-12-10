@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Event Test API JAVA - Cypress",
+    "active": true,
+    "icon": "string",
+    "customFields": {
+      "name": "Onething"
+    }
+  }

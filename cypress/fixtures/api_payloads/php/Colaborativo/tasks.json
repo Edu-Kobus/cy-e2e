@@ -1,0 +1,28 @@
+{
+    "id": 1876,
+    "descricao": "Task Test - API v2 php",
+    "percentualConcluido": 100,
+    "solicitaAceite": false,
+    "aceite": 1,
+    "status": 1,
+    "prioridade": 4,
+    "justificativa": "",
+    "observacoes": "observação da tarefa",
+    "dataAceite": "2022-05-02T17:23:51.000000Z",
+    "dataInicio": "2022-02-08T10:42:48.000000Z",
+    "dataPrazo": "2022-02-11T10:42:48.000000Z",
+    "dataTermino": "2022-02-10T10:42:48.000000Z",
+    "notificarEmail": 0,
+    "conta": {
+        "id": 1
+    },
+    "categoria": {
+        "id": 1
+    },
+    "usuario": {
+        "id": 3
+    },
+    "usuarioAgendador": {
+        "id": 1
+    }
+}

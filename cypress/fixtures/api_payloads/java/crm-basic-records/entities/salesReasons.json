@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1
+      },
+      "branch": {
+        "id": 1
+      }
+    },
+    "name": "TEST API JAVA - CYPRESS",
+    "active": true,
+    "customFields": {
+        "name": "onething"
+    },
+    "note": "The note is on the table"
+  }

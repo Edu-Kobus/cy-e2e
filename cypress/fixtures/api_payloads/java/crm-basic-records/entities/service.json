@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "company": {
+      "id": 1
+    },
+    "partNumber": "string",
+    "name": "Service Test API - Cypress",
+    "serviceCategory": {
+      "id": 1
+    },
+    "unitMeasurement": {
+      "id": 1
+    },
+    "active": true,
+    "salePrice": 1,
+    "maximumDiscount": 1,
+    "note": "string",
+    "customFields": {
+        "teste": "customField test"
+    }
+  }

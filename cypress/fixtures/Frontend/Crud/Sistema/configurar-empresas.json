@@ -1,0 +1,7 @@
+{
+    "labelCompany": "Empresa",
+    "buttonLabelCompany": "Cadastrar Empresa",
+    "errorMessage": "Existem campos obrigatórios não preenchidos no formulário ou valores inválidos!",
+    "labelBranch": "Empresa Filial",
+    "buttonLabelBranch": "Cadastrar Empresa Filial"
+}

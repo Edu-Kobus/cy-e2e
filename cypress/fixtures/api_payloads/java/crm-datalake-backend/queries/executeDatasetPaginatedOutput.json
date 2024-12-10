@@ -1,0 +1,39 @@
+{
+	"projection": [
+		{
+			"schema": "public",
+			"table": "anonymous_receita_active_companies",
+			"column": "ds_company_name",
+			"label": "ds_company_name",
+			"type": "STRING"
+		},
+		{
+			"schema": "public",
+			"table": "anonymous_receita_active_companies",
+			"column": "ds_trade_name",
+			"label": "ds_trade_name",
+			"type": "STRING"
+		}
+	],
+	"rows": [
+		{
+			"columns": [
+				"QA SISTEMAS S/A",
+				"QA SISTEMAS"
+			]
+		}
+	],
+	"lastRefresh": "2022-08-19T13:57:44.453Z",
+	"filters": [
+		{
+			"key": "companies.id_receita_companies",
+			"label": "CNPJ",
+			"dataType": "STRING"
+		}
+	],
+	"source": "REDSHIFT",
+	"listInformation": {
+		"totalElements": 1,
+		"totalPages": 1
+	}
+}

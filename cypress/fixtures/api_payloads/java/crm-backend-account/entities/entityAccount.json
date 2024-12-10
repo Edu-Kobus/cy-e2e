@@ -1,0 +1,44 @@
+{
+	"id": 2,
+	"idErp": "string",
+	"name": "string",
+	"fantasyName": "string",
+	"economicGroup": "string",
+	"stateRegistration": "string",
+	"municipalRegistration": "string",
+	"cnpj": "string",
+	"rg": "string",
+	"cpf": "string",
+	"einNumber": "string",
+	"ssnNumber": "string",
+	"url": "string",
+	"generalEmail": "string",
+	"financialEmail": "string",
+	"employees": 1,
+	"annualIncome": 1,
+	"registerDate": "2022-08-10T11:38:24.087Z",
+	"customerSince": "2022-08-10T11:38:24.087Z",
+	"birthDate": "2022-08-10T11:38:24.087Z",
+	"receiveEmail": true,
+	"receiveSurvey": true,
+	"receiveTrackEmail": true,
+	"customFields": {
+		"name": "string"
+	},
+	"active": true,
+	"personType": {
+		"id": 4
+	},
+	"companySize": {
+		"id": 1
+	},
+	"activityBranch": {
+		"id": 1
+	},
+	"companyGroup": {
+		"id": 1
+	},
+	"origin": {
+		"id": 1
+	}
+}

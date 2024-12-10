@@ -1,0 +1,10 @@
+{
+    "quantityDefault": "12345",
+    "salePrice": "12342",
+    "maxDiscount": "10",
+    "correctionFactor": "10",
+    "ipi": "10",
+    "icms": "10",
+    "weight": "10",
+    "note": "Teste"
+}

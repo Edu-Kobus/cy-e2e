@@ -1,0 +1,15 @@
+{
+	"id": 1,
+	"idErp": "32fds",
+	"nome": "NÃO INFORMADO",
+	"ativo": true,
+	"empresaFilial": {
+		"id": 1,
+		"empresa": {
+			"id": 1
+		},
+		"filial": {
+			"id": 1
+		}
+	}
+}

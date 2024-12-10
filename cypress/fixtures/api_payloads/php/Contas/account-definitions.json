@@ -1,0 +1,20 @@
+{
+    "id": "2",
+    "empresa_filial": "1",
+    "conta": "1",
+    "tipo_conta": "2",
+    "status": "1",
+    "tabela_preco": "1",
+    "transportadora": "1",
+    "redespacho": "1",
+    "representante": "1",
+    "vendedor": "1",
+    "meta_prevista": "1",
+    "motivo_inativacao": "1",
+    "prazo_pagamento": "1",
+    "observacoes": "Cypress",
+    "recebe_email": "1",
+    "recebe_pesquisa": "1",
+    "recebe_monitora_email": "1",
+    "rating": "1"
+ }

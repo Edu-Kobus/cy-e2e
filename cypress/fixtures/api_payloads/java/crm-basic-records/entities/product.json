@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "company": {
+      "id": 1
+    },
+    "name": "Product Test API - Cypress",
+    "partNumber": "Framework",
+    "derivationPartNumber": "cy2",
+    "derivationName": "cy",
+    "productCategory": {
+      "id": 1,
+      "idErp": "string"
+    },
+    "unitMeasurement": {
+      "id": 1
+    },
+    "active": true,
+    "salePrice": 1,
+    "maximumDiscount": 1,
+    "defaultQuantity": 1,
+    "correctionFactor": 1,
+    "saleType": false,
+    "ipi": 1,
+    "icms": 1,
+    "weight": 1,
+    "note": "string",
+    "customFields": {
+        "teste": "teste"
+    }
+  }

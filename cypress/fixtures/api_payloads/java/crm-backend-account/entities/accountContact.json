@@ -1,0 +1,95 @@
+{
+	"id": 4419,
+	"active": true,
+	"visibility": 1,
+	"name": "Cypress PUT",
+	"treatment": "Teste",
+	"gender": 0,
+	"zipCode": "99820",
+	"address": "Cypress PUT",
+	"number": "100",
+	"complement": "Em BNU",
+	"district": "Centro",
+	"cpf": "10753530929",
+	"rg": "3028132",
+	"telephone": "47998152654",
+	"corporatePhone": true,
+	"phoneBranch": "144",
+	"cell": "232",
+	"corporateCellPhone": true,
+	"mobileWhatsapp": true,
+	"operator": 1,
+	"email": "teste@com.br",
+	"corporateEmail": true,
+	"receiveCampaign": true,
+	"receiveSearch": true,
+	"skype": "skype.com/",
+	"twitter": "tt.com/",
+	"facebook": "fb.com//",
+	"birthDate": "2021-10-14T00:00:00Z",
+	"decisionLevel": 2,
+	"opinionCompany": 1,
+	"reasonOpinionCompany": "SEM MOTIVO",
+	"note": "Teste",
+	"department": {
+		"id": 6,
+		"companyBranch": {
+			"id": 1,
+			"company": {
+				"id": 1
+			},
+			"branch": {
+				"id": 1
+			}
+		},
+		"name": "Comercial",
+		"active": true,
+		"usesOccurrence": true
+	},
+	"function": {
+		"id": 4,
+		"company": {
+			"id": 1
+		}
+	},
+	"origin": {
+		"id": 4
+	},
+	"account": {
+		"id": 1,
+		"personType": {
+			"id": 2
+		},
+		"companySize": {
+			"id": 2
+		},
+		"activityBranch": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"companyGroup": {
+			"id": 1,
+			"company": {
+				"id": 1
+			}
+		},
+		"origin": {
+			"id": 3,
+			"company": {
+				"id": 1
+			}
+		},
+		"passport": "526525"
+	},
+	"companyBranch": {
+		"id": 1,
+		"company": {
+			"id": 1
+		},
+		"branch": {
+			"id": 1
+		}
+	}
+}

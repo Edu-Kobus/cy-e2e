@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "idErp": "21",
+    "name": "deposit Test API - Cypress",
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1
+      },
+      "branch": {
+        "id": 1
+      }
+    },
+    "active": true,
+    "customFields": {
+        "teste": "teste"
+    }
+  }
+  

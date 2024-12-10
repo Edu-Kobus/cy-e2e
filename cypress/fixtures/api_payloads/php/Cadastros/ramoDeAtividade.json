@@ -1,0 +1,8 @@
+{
+	"id": 1,
+	"nome": "Cypress API Test  - php",
+	"ativo": true,
+	"empresa": {
+		"id": 1
+	}
+}

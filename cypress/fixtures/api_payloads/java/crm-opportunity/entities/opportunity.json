@@ -1,0 +1,73 @@
+{
+  "id": 1,
+  "account": {
+    "id": 1
+  },
+  "companyBranch": {
+    "id": 1
+  },
+  "date": "2022-09-28T21:27:13.628Z",
+  "hour": "2022-09-28T21:27:13.628Z",
+  "contact": {
+    "id": 4419
+  },
+  "companyId": 1,
+  "name": "string",
+  "subType": 1,
+  "origin": {
+    "id": 1
+  },
+  "script": {
+    "id": 1,
+    "name": "string",
+    "description": "string"
+  },
+  "user": {
+    "id": 3
+  },
+  "phase": 1,
+  "standByPhase": 1,
+  "lossReason": {
+    "id": 1
+  },
+  "saleReason": {
+    "id": 1
+  },
+  "probability": 1,
+  "standByProbability": 1,
+  "proposalNumber": "1",
+  "orderNumber": "string",
+  "autoNumbered": true,
+  "predictedInitialClosingDate": "2022-09-28T21:27:13.628Z",
+  "predictedClosingDate": "2022-09-28T21:27:13.628Z",
+  "effectiveDateClosing": "2022-09-28T21:27:13.628Z",
+  "predictedDeliveryDate": "2022-09-28T21:27:13.628Z",
+  "effectiveDelivertDate": "2022-09-28T21:27:13.628Z",
+  "initialPredictedValue": 1,
+  "predictedValue": 1,
+  "closedValue": 1,
+  "predictedValueCurrency": 1,
+  "closedValueCurrency": 1,
+  "predictedQuantitative": 1,
+  "quantitativeAccomplished": 1,
+  "history": "string",
+  "description": "string",
+  "timestampRegistration": "2022-09-28T21:27:13.628Z",
+  "operatorRegistration": {
+    "id": 1
+  },
+  "timestampChange": "2022-09-28T21:27:13.628Z",
+  "operatorChange": {
+    "id": 3
+  },
+  "businessType": {
+    "id": 1
+  },
+  "customFields": {
+    "teste": "campo customizado"
+  },
+  "type": {
+    "id": 1
+},
+  "notifyEmail": false
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1,
+	"idErp": "32fds",
+	"name": "NOTHING ELSE",
+	"companyBranch": {
+		"id": 1,
+		"company": {
+			"id": 1,
+			"idErp": "1",
+			"name": "Devolpment"
+		},
+		"branch": {
+			"id": 1,
+			"idErp": "1",
+			"name": "Matriz"
+		}
+	},
+	"active": true
+}

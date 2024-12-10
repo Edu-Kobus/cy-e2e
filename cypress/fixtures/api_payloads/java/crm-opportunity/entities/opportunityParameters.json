@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "companyBranch": {
+    "id": 1,
+    "company": {
+      "id": 1,
+      "idErp": "string",
+      "name": "string",
+      "fantasyName": "string"
+    },
+    "branch": {
+      "id": 1,
+      "idErp": "string",
+      "name": "string",
+      "fantasyName": "string"
+    }
+  },
+  "stageOne": {
+    "stage": 1,
+    "name": "string",
+    "percentage": 0
+  },
+  "stageTwo": {
+    "stage": 2,
+    "name": "string",
+    "percentage": 1
+  },
+  "stageThree": {
+    "stage": 3,
+    "name": "string",
+    "percentage": 1
+  },
+  "stageFour": {
+    "stage": 4,
+    "name": "string",
+    "percentage":10
+  },
+  "stageFive": {
+    "stage": 5,
+    "name": "string",
+    "percentage": 1
+  },
+  "stageSix": {
+    "stage": 6,
+    "name": "string",
+    "percentage": 1
+  }
+}

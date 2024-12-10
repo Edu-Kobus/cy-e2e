@@ -1,0 +1,35 @@
+{
+	"id": 1,
+	"conta": {
+		"id": 1
+	},
+	"empresaFilial": {
+		"id": 1
+	},
+	"data": "2023-01-30T10:05:16.562607Z",
+	"hora": "2023-01-30T10:05:16.562623Z",
+	"empresaId": 1,
+	"nomeOportunidade": "Cypress API v3 - Test",
+	"usuario": {
+		"id": 3
+	},
+	"estagio": 1,
+	"estagioStandby": 0,
+	"probabilidade": 0,
+	"probabilidadeStandby": 0,
+	"numeroPedido": "1601",
+	"autoNumerada": false,
+	"valorPrevistoInicial": 0,
+	"valorPrevisto": 0,
+	"valorFechado": 0,
+	"valorPrevistoMoeda": 0,
+	"valorFechadoMoeda": 0,
+	"quantitativoPrevisto": 0,
+	"quantitativoRealizado": 0,
+	"historico": "teste",
+	"descricao": "teste",
+	"tipoOportunidade": {
+		"id": 1
+	},
+	"notificarEmail": false
+}

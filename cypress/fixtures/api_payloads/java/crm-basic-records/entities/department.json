@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Cypress API Test API - JAVA",
+    "companyBranch": {
+        "id": 1
+    },
+    "active": true,
+    "useOccurrence": true
+}

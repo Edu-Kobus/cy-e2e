@@ -1,0 +1,23 @@
+{
+    "cancelado": "0",
+    "nome_cancelado": "NÃO",
+    "id": "2",
+    "data": "22/10/2021",
+    "hora": "Das 11:20 até às 21:45",
+    "hora_inicio": "11:20:00",
+    "hora_fim": "21:45:00",
+    "justificativa_cancelamento": null,
+    "qtd_participantes": "0",
+    "qtd_aceites": "0",
+    "qtd_recusas": "0",
+    "qtd_avaliacoes": "1",
+    "participantes": "3",
+    "status": {
+        "id": "100002",
+        "nome": "Concluído",
+        "valor": "2",
+        "condicional": null
+    },
+    "status_order": "2",
+    "detalhe": "1"
+}

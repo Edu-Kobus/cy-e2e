@@ -1,0 +1,173 @@
+{
+    "id": "612",
+    "contato": null,
+    "detalhes": {
+        "id": "612",
+        "assunto": "Reunion of the mascara",
+        "descricao": "Teste ag 01",
+        "data_inicio": {
+            "date": "2022-05-17 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "America/Sao_Paulo"
+        },
+        "data_fim": {
+            "date": "2022-05-17 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "America/Sao_Paulo"
+        },
+        "hora_inicio": {
+            "date": "1970-01-01 17:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "America/Sao_Paulo"
+        },
+        "hora_fim": {
+            "date": "1970-01-01 18:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "America/Sao_Paulo"
+        },
+        "local": null,
+        "sincroniza_app": null,
+        "id_app": null,
+        "edita_app": null,
+        "origem_app": null,
+        "campos_customizados": null,
+        "tipo_recorrencia": 1,
+        "intervalo_recorrencia": 1,
+        "recorrencia_semanal": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "recorrencia_mensal_anual": 0,
+        "cancelado": false,
+        "justificativa_cancelamento": null,
+        "notificar_email": false,
+        "solicita_aceite": null,
+        "oculto": 0,
+        "id_externo": null,
+        "status": 0
+    },
+    "compromisso": {
+        "id": 662,
+        "data": {
+            "date": "2022-05-17 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "America/Sao_Paulo"
+        },
+        "hora_inicio": {
+            "date": "1970-01-01 17:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "America/Sao_Paulo"
+        },
+        "hora_fim": {
+            "date": "1970-01-01 18:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "America/Sao_Paulo"
+        },
+        "cancelado": false,
+        "justificativa_cancelamento": null,
+        "status": 0
+    },
+    "atividade": {
+        "id": 1,
+        "nome": "Reunião",
+        "icone": "fa fa-group"
+    },
+    "prioridade": {
+        "id": 3,
+        "nome": "Alta",
+        "cor": "red"
+    },
+    "categoria": {
+        "id": 2,
+        "nome": "Venda",
+        "ativo": true,
+        "campos_customizados": null
+    },
+    "usuario_agendador": {
+        "id": 3,
+        "id_erp": null,
+        "nome": "Integrações",
+        "sobrenome": "Usuario de testes",
+        "descricao_funcao": "DEV",
+        "tipo": null,
+        "recebe_notificacao_hierarquia_opo": true,
+        "recebe_notificacao_hierarquia_oco": true,
+        "foto": null,
+        "email": "leonardo@maxxsoft.com.br",
+        "telefone": null,
+        "celular": null,
+        "aniversario": null,
+        "ativo": true,
+        "visivel_combo": false,
+        "idioma": 1,
+        "id_legado": 3
+    },
+    "conta": {
+        "id": 210,
+        "id_erp": null,
+        "nome": "Teste Telefone mascara",
+        "fantasia": "Teste telefone mascara",
+        "grupo_economico": null,
+        "inscricao_estadual": null,
+        "inscricao_municipal": null,
+        "cnpj": null,
+        "rg": null,
+        "cpf": null,
+        "ein_number": "1",
+        "ssn_number": null,
+        "url": null,
+        "email_geral": "Teste@gmail.com",
+        "email_financeiro": null,
+        "funcionarios": null,
+        "receita_anual": "5800000.00",
+        "data_cadastro": {
+            "date": "2022-05-16 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "America/Sao_Paulo"
+        },
+        "cliente_desde": null,
+        "data_nascimento": null,
+        "recebe_email": false,
+        "recebe_pesquisa": false,
+        "recebe_monitora_email": false,
+        "campos_customizados": null,
+        "ativo": true,
+        "nit": null,
+        "cedula_ciudadania": null,
+        "passaporte": null,
+        "status_integracao": null,
+        "detalhe_status_integracao": null
+    },
+    "propriedade": {
+        "id": 122,
+        "id_erp": null,
+        "nome": "Propriedade mascara telefone",
+        "area_cultivo": null,
+        "area_total": 0,
+        "cep": "75903270",
+        "latitude": "-17.788960",
+        "longitude": "-50.917205",
+        "endereco": "Propriedade mascara telefone",
+        "numero": null,
+        "complemento": "Centro - Predio",
+        "bairro_vilarejo": "Jardim Goiás",
+        "observacao": null,
+        "ativo": true,
+        "inscricao_estadual": "",
+        "inscricao_municipal": null,
+        "campos_customizados": null
+    },
+    "status": {
+        "id": "100000",
+        "nome": "Agendado",
+        "valor": "0",
+        "condicional": null
+    },
+    "periodo": "Ter, 17/05/2022, 17:00 - 18:00",
+    "data_inicial": "17/05/2022"
+}

@@ -1,0 +1,31 @@
+{
+	"name": "cy-e2e",
+	"version": "1.0.0",
+	"description": "Projeto destinado aos testes e2e",
+	"scripts": {
+		"cy:open": "npx cypress open",
+		"cy:run": "cypress run",
+		"cy:api": "cypress run -s cypress/e2e/services/php/tests-api.spec.js",
+		"cy:gui": "cypress run -s ${CRUD_FILE}",
+		"allure:report": "allure generate allure-results --clean -o allure-report"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Edu-Kobus/cy-e2e.git"
+	},
+	"author": "Eduardo.Kobus",
+	"license": "MIT",
+	"devDependencies": {
+		"@faker-js/faker": "^7.5.0",
+		"@shelex/cypress-allure-plugin": "^2.35.2",
+		"cypress": "^13.7.1",
+		"cypress-localstorage-commands": "^2.2.0",
+		"cypress-multi-reporters": "^1.5.0",
+		"cypress-plugin-api": "^2.9.0",
+		"eslint-plugin-cypress": "^2.13.2",
+		"faker-br": "^0.4.1",
+		"mocha": "^10.2.0",
+		"mocha-junit-reporter": "^2.2.1",
+		"mochawesome": "^7.1.3"
+	}
+}

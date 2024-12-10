@@ -1,0 +1,33 @@
+{
+    "principal": "0",
+    "ativo": "1",
+    "cep": "59150810",
+    "bairro": "Nova Parnamirim",
+    "endereco": "Rua Eugênio Alberto Lira Silva",
+    "numero": "100",
+    "complemento": "Apto",
+    "latitude": "-5.883146",
+    "longitude": "-35.209635",
+    "tipo_endereco": {
+        "nome": "Comercial",
+        "valor": "3"
+    },
+    "cidade": {
+        "nome": "Parnamirim",
+        "valor": "1111",
+        "pais": "1",
+        "estado": "20"
+    },
+    "estado": {
+        "nome": "RN -\r\nRIO GRANDE DO NORTE",
+        "valor": "20"
+    },
+    "pais": {
+        "nome": "BRASIL",
+        "valor": "1"
+    },
+    "conta": "1",
+    "origem": {
+        "conta": "1"
+    }
+}

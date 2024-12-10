@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"nome": "Recebida",
+	"ordemExibicao": 1,
+	"corPadrao": "#f2ff00",
+	"ativo": true,
+	"iniciaOcorrencia": true,
+	"encerraOcorrencia": false,
+	"empresaFilial": {
+		"id": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1
+      },
+      "branch": {
+        "id": 1
+      }
+    },
+    "name": "string",
+    "active": true,
+    "customFields": {
+      "name": "Onething"
+    }
+  }

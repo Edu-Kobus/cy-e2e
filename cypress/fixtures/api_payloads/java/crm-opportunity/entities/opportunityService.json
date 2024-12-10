@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "opportunity": {
+    "id": 9
+  },
+  "proposal": {
+    "id": 3
+  },
+  "companyId": 1,
+  "sequentialErp": 1,
+  "proposalReview": 1,
+  "service": {
+    "id": 1,
+    "serviceCategory": {
+      "id": 1,
+      "company": {
+        "id": 1
+      }
+    },
+    "measurementUnit": {
+      "id": 1
+    },
+    "company": {
+      "id": 1
+    }
+  },
+  "quantity": 1,
+  "priceTable": {
+    "id": 1,
+    "companyBranch": {
+      "id": 1,
+      "company": {
+        "id": 1
+      },
+      "branch": {
+        "id": 1
+      }
+    }
+  },
+  "saleValue": 1,
+  "discountValue": 1,
+  "showValue": true,
+  "showPhoto": true,
+  "showAttachment": true,
+  "notes": "string",
+  "timestampRegistration": "2022-09-29T19:37:52.050Z",
+  "operatorRegistration": {
+    "id": 1
+  },
+  "timestampChange": "2022-09-29T19:37:52.050Z",
+  "operatorChange": {
+    "id": 1
+  },
+  "integratedItem": true,
+  "sequentialDependence": 1,
+  "customFields": {"teste": "campo-customizado"}
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "idErp": "string",
+    "country": {
+      "id": 1
+    },
+    "name": "state Test API - Cypress",
+    "active": true,
+    "initials": "cy",
+    "customFields": {
+        "teste": "teste"
+    }
+  }

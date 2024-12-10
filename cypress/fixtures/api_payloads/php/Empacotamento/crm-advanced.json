@@ -1,0 +1,1654 @@
+{
+   "id":"3",
+   "name":"Advanced",
+   "programs":[
+      {
+         "id":"140005",
+         "descricao":"Perfil do Usu\u00e1rio",
+         "url":"profile",
+         "categoria":null,
+         "tabelaMestre":null,
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configurar_meu_perfil"
+      },
+      {
+         "id":"10",
+         "descricao":"Meu Portal",
+         "url":"legado",
+         "categoria":null,
+         "tabelaMestre":"\/modulos\/ModuloMeuPortal.php",
+         "uriRecurso":"res:\/\/com.br\/core_\/meu_portal"
+      },
+      {
+         "id":"11",
+         "descricao":"\u00c1reas de Interesse",
+         "url":"area-interesse",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_area_interesse",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/area_interesse"
+      },
+      {
+         "id":"12",
+         "descricao":"Caracter\u00edsticas",
+         "url":"caracteristicas",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_caracteristicas",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/caracteristicas"
+      },
+      {
+         "id":"14",
+         "descricao":"Sub-Detalhamentos de Caracter\u00edstica",
+         "url":"cadastros?caracteristicas-subdetalhe",
+         "categoria":"Cadastros",
+         "tabelaMestre":"caracteristicas_subdetalhe",
+         "uriRecurso":null
+      },
+      {
+         "id":"15",
+         "descricao":"Categorias de Compromisso",
+         "url":"categoria-compromisso",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_categoria_compromisso",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/categoria_compromisso"
+      },
+      {
+         "id":"16",
+         "descricao":"Categorias de Despesa",
+         "url":"categoria-despesa",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_categoria_despesa",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/categoria_despesa"
+      },
+      {
+         "id":"17",
+         "descricao":"Categorias de Produto",
+         "url":"categoria-produto",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_categoria_produto",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/categoria_produto"
+      },
+      {
+         "id":"18",
+         "descricao":"Categorias de Servi\u00e7o",
+         "url":"categoria-servico",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_categoria_servico",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/categoria_servico"
+      },
+      {
+         "id":"19",
+         "descricao":"Cidades",
+         "url":"cidades",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_cidades",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/cidades"
+      },
+      {
+         "id":"20",
+         "descricao":"Crit\u00e9rios de Avalia\u00e7\u00e3o",
+         "url":"criterios-avaliacao",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_criterios_avaliacao",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/criterios_avaliacao"
+      },
+      {
+         "id":"21",
+         "descricao":"Departamentos",
+         "url":"departamentos",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_departamentos",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/departamentos"
+      },
+      {
+         "id":"22",
+         "descricao":"Dep\u00f3sitos",
+         "url":"depositos",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_depositos",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/depositos"
+      },
+      {
+         "id":"23",
+         "descricao":"Disposi\u00e7\u00f5es de Ocorr\u00eancia",
+         "url":"disposicao-ocorrencia",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_disposicao_ocorrencia",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/disposicao_ocorrencia"
+      },
+      {
+         "id":"24",
+         "descricao":"Estados",
+         "url":"estados",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_estados",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/estados"
+      },
+      {
+         "id":"25",
+         "descricao":"Frases",
+         "url":"frases",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_frases",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/frases"
+      },
+      {
+         "id":"26",
+         "descricao":"Fun\u00e7\u00f5es",
+         "url":"funcoes",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_funcoes",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/funcoes"
+      },
+      {
+         "id":"27",
+         "descricao":"Grupos de Usu\u00e1rio",
+         "url":"grupos-usuario",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_grupo_usuario",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/grupos_usuario"
+      },
+      {
+         "id":"28",
+         "descricao":"Grupos de Empresa",
+         "url":"grupos-empresa",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_grupo_empresa",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/grupos_empresa"
+      },
+      {
+         "id":"29",
+         "descricao":"Modalidades de Neg\u00f3cio",
+         "url":"modalidade-negocio",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_modalidade_negocio",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/modalidade_negocio"
+      },
+      {
+         "id":"30",
+         "descricao":"Motivos de Fechamento",
+         "url":"motivo-fechamento",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_motivo_fechamento",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/motivo_fechamento"
+      },
+      {
+         "id":"31",
+         "descricao":"Motivos de Pausa",
+         "url":"motivo-pausa",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_motivo_pausa",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/motivo_pausa"
+      },
+      {
+         "id":"32",
+         "descricao":"Motivos de Inativa\u00e7\u00e3o",
+         "url":"motivo-inativacao",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_motivo_inativacao",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/motivo_inativacao"
+      },
+      {
+         "id":"33",
+         "descricao":"Motivos de Perda",
+         "url":"motivo-perda",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_motivo_perda",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/motivo_perda"
+      },
+      {
+         "id":"34",
+         "descricao":"Objetivos de Abordagem",
+         "url":"objetivo-abordagem",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_objetivo_abordagem",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/objetivo_abordagem"
+      },
+      {
+         "id":"35",
+         "descricao":"Origens de Conta",
+         "url":"origem-conta",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_origem_conta",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/origem_conta"
+      },
+      {
+         "id":"36",
+         "descricao":"Origens de Contato",
+         "url":"origem-contato",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_origem_contato",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/origem_contato"
+      },
+      {
+         "id":"37",
+         "descricao":"Origens de Ocorr\u00eancia",
+         "url":"origem-ocorrencia",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_origem_ocorrencia",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/origem_ocorrencia"
+      },
+      {
+         "id":"38",
+         "descricao":"Origens de Oportunidade",
+         "url":"origem-oportunidade",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_origem_oportunidade",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/origem_oportunidade"
+      },
+      {
+         "id":"39",
+         "descricao":"Pa\u00edses",
+         "url":"paises",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_paises",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/paises"
+      },
+      {
+         "id":"40",
+         "descricao":"Portes de Empresa",
+         "url":"porte-empresa",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_porte_empresa",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/porte_empresa"
+      },
+      {
+         "id":"41",
+         "descricao":"Prazos de Pagamento",
+         "url":"prazo-pagamento",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_prazo_pagamento",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/prazo_pagamento"
+      },
+      {
+         "id":"42",
+         "descricao":"Produtos",
+         "url":"produtos",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_produtos",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/produtos"
+      },
+      {
+         "id":"43",
+         "descricao":"Ramos de Atividade",
+         "url":"ramo-atividade",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_ramo_atividade",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/ramo_atividade"
+      },
+      {
+         "id":"44",
+         "descricao":"Resultado de Abordagem",
+         "url":"resultado-abordagem",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_resultado_abordagem",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/resultado_abordagem"
+      },
+      {
+         "id":"45",
+         "descricao":"Servi\u00e7os",
+         "url":"servico",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_servicos",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/servico"
+      },
+      {
+         "id":"46",
+         "descricao":"Status da Ocorr\u00eancia",
+         "url":"status-ocorrencia",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_status_ocorrencia",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/status_ocorrencia"
+      },
+      {
+         "id":"47",
+         "descricao":"Tabelas de pre\u00e7o",
+         "url":"tabelas-preco",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tabelas_preco",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tabelas_preco"
+      },
+      {
+         "id":"48",
+         "descricao":"Tipos de A\u00e7\u00e3o",
+         "url":"tipo-acao",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_acao",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_acao"
+      },
+      {
+         "id":"49",
+         "descricao":"Tipos de Abordagem",
+         "url":"tipo-abordagem",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_abordagem",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_abordagem"
+      },
+      {
+         "id":"50",
+         "descricao":"Tipos de Contrato",
+         "url":"tipo-contrato",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_contrato",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_contrato"
+      },
+      {
+         "id":"51",
+         "descricao":"Tipos de Documento",
+         "url":"tipo-documento",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_documento",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_documento"
+      },
+      {
+         "id":"52",
+         "descricao":"Tipos de Evento",
+         "url":"tipo-evento",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_evento",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_evento"
+      },
+      {
+         "id":"53",
+         "descricao":"Tipos de Follow",
+         "url":"tipo-follow",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_follow",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_follow"
+      },
+      {
+         "id":"54",
+         "descricao":"Tipos de Ocorr\u00eancia",
+         "url":"tipo-ocorrencia",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_ocorrencia",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_ocorrencia"
+      },
+      {
+         "id":"55",
+         "descricao":"Sub-tipo de Ocorr\u00eancia",
+         "url":"sub-tipo-ocorrencia",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_subtipo_ocorrencia",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/sub_tipo_ocorrencia"
+      },
+      {
+         "id":"56",
+         "descricao":"Tipos de Oportunidade",
+         "url":"tipo-oportunidade",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_oportunidade",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_oportunidade"
+      },
+      {
+         "id":"57",
+         "descricao":"Sub-tipo de Oportunidade",
+         "url":"sub-tipo-oportunidade",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_subtipo_oportunidade",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/sub_tipo_oportunidade"
+      },
+      {
+         "id":"58",
+         "descricao":"Tipos de Pagamento",
+         "url":"tipo-pagamento",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_pagamento",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_pagamento"
+      },
+      {
+         "id":"59",
+         "descricao":"Tipos de Relacionamento",
+         "url":"tipo-relacionamento",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_relacionamento",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_relacionamento"
+      },
+      {
+         "id":"60",
+         "descricao":"Transportadoras",
+         "url":"transportadoras",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_transportadoras",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/transportadoras"
+      },
+      {
+         "id":"61",
+         "descricao":"Unidades de Medida",
+         "url":"unidade-medida",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_unidade_medida",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/unidade_medida"
+      },
+      {
+         "id":"63",
+         "descricao":"Agenda",
+         "url":"agenda",
+         "categoria":"Principal",
+         "tabelaMestre":"col_compromissos",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/agenda"
+      },
+      {
+         "id":"65",
+         "descricao":"Consultar Follow-ups",
+         "url":"follow-up",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"_follow_ups",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/consultar_follow_ups"
+      },
+      {
+         "id":"66",
+         "descricao":"Nova Tarefa",
+         "url":"tarefa",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_tarefas",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/tarefa"
+      },
+      {
+         "id":"67",
+         "descricao":"Consultar Tarefas",
+         "url":"consulta-tarefa",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_tarefas",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/consulta_tarefa"
+      },
+      {
+         "id":"68",
+         "descricao":"Novo Recado",
+         "url":"recado",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_recados",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/recado"
+      },
+      {
+         "id":"69",
+         "descricao":"Consultar Recados",
+         "url":"consulta-recado",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_recados",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/consulta_recado"
+      },
+      {
+         "id":"70",
+         "descricao":"Analitycs",
+         "url":"dashboards",
+         "categoria":"Analytics",
+         "tabelaMestre":"graficos",
+         "uriRecurso":"res:\/\/com.br\/core_\/analytics\/dashboards"
+      },
+      {
+         "id":"71",
+         "descricao":"Indicadores de Performance",
+         "url":"\/modulos\/ModuloIndicadoresPerformance.php",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/analytics\/indicadores_performance"
+      },
+      {
+         "id":"72",
+         "descricao":"Gerenciamento de Atividades",
+         "url":"\/modulos\/ModuloAtividades.php",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/analytics\/gerenciamento_atividades"
+      },
+      {
+         "id":"73",
+         "descricao":"Minhas Metas",
+         "url":"\/modulos\/ModuloMetas.php",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/analytics\/painel_metas"
+      },
+      {
+         "id":"74",
+         "descricao":"Nova Conta",
+         "url":"contas",
+         "categoria":"Contas",
+         "tabelaMestre":"con_contas",
+         "uriRecurso":"res:\/\/com.br\/core_\/contas\/contas"
+      },
+      {
+         "id":"75",
+         "descricao":"Consultar Contas",
+         "url":"consulta-contas",
+         "categoria":"Contas",
+         "tabelaMestre":"con_contas",
+         "uriRecurso":"res:\/\/com.br\/core_\/contas\/consulta_contas"
+      },
+      {
+         "id":"76",
+         "descricao":"Novo Contato Avulso",
+         "url":"contatos",
+         "categoria":"Contas",
+         "tabelaMestre":"con_contatos",
+         "uriRecurso":"res:\/\/com.br\/core_\/contas\/contatos"
+      },
+      {
+         "id":"77",
+         "descricao":"Consultar Contatos",
+         "url":"consulta-contatos",
+         "categoria":"Contas",
+         "tabelaMestre":"con_contatos",
+         "uriRecurso":"res:\/\/com.br\/core_\/contas\/consulta_contatos"
+      },
+      {
+         "id":"78",
+         "descricao":"Nova Oportunidade",
+         "url":"\/cadastros\/OportunidadesCadastra.php",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/nova_oportunidade"
+      },
+      {
+         "id":"79",
+         "descricao":"Consultar Oportunidades",
+         "url":"\/modulos\/ModuloOportunidades.php",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/consultar_oportunidade"
+      },
+      {
+         "id":"80",
+         "descricao":"Consultar A\u00e7\u00f5es",
+         "url":"consulta-acao-oportunidades",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"_acoes",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/consultar_acoes"
+      },
+      {
+         "id":"81",
+         "descricao":"Consultar Follow-ups",
+         "url":"follow-up-oportunidades",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"_follow_ups",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/follow_up_oportunidades"
+      },
+      {
+         "id":"82",
+         "descricao":"Novo Roteiro",
+         "url":"\/cadastros\/RoteirosCadastra.php",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"roteiros",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/novo_roteiro"
+      },
+      {
+         "id":"83",
+         "descricao":"Consultar Roteiros",
+         "url":"\/modulos\/ModuloRoteiros.php",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/consultar_roteiros"
+      },
+      {
+         "id":"84",
+         "descricao":"Nova Ocorr\u00eancia",
+         "url":"\/cadastros\/OcorrenciasCadastra.php",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/ocorrencias\/nova_ocorrencia"
+      },
+      {
+         "id":"85",
+         "descricao":"Consultar Ocorr\u00eancia",
+         "url":"\/modulos\/ModuloOcorrencias.php",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/ocorrencias\/consultar_ocorrencia"
+      },
+      {
+         "id":"86",
+         "descricao":"Consultar A\u00e7\u00f5es",
+         "url":"consulta-acao-ocorrencias",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"_acoes",
+         "uriRecurso":"res:\/\/com.br\/core_\/ocorrencias\/consultar_acoes"
+      },
+      {
+         "id":"87",
+         "descricao":"Consultar Follow-ups",
+         "url":"follow-up-ocorrencias",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"_follow_ups",
+         "uriRecurso":"res:\/\/com.br\/core_\/ocorrencias\/follow_up_ocorrencias"
+      },
+      {
+         "id":"88",
+         "descricao":"FAQ - Perguntas Frequentes",
+         "url":"\/modulos\/ModuloFAQ.php",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/ocorrencias\/f_a_q_perguntas_frequentes"
+      },
+      {
+         "id":"89",
+         "descricao":"Novo Contrato",
+         "url":"\/cadastros\/ContratosCadastra.php",
+         "categoria":"Contratos",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/contratos\/novo_contrato"
+      },
+      {
+         "id":"90",
+         "descricao":"Consultar Contratos",
+         "url":"\/modulos\/ModuloContratos.php",
+         "categoria":"Contratos",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/contratos\/consultar_contrato"
+      },
+      {
+         "id":"91",
+         "descricao":"Consultar A\u00e7\u00f5es",
+         "url":"consulta-acao-contratos",
+         "categoria":"Contratos",
+         "tabelaMestre":"_acoes",
+         "uriRecurso":"res:\/\/com.br\/core_\/contratos\/consultar_acoes"
+      },
+      {
+         "id":"92",
+         "descricao":"Consultar Follow-ups",
+         "url":"follow-up-contratos",
+         "categoria":"Contratos",
+         "tabelaMestre":"_follow_ups",
+         "uriRecurso":"res:\/\/com.br\/core_\/contratos\/consultar_follow_ups"
+      },
+      {
+         "id":"93",
+         "descricao":"Nova Campanha",
+         "url":"nova-campanha",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/nova_campanha"
+      },
+      {
+         "id":"94",
+         "descricao":"Consultar Campanhas",
+         "url":"consulta-campanhas",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/consulta_campanhas"
+      },
+      {
+         "id":"95",
+         "descricao":"Painel de Discagem",
+         "url":"painel-discagem",
+         "categoria":"Principal",
+         "tabelaMestre":"cam_campanha_discador",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/painel_discagem"
+      },
+      {
+         "id":"96",
+         "descricao":"Gerenciar Discador",
+         "url":"gerenciar-discador",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_gerenciador_discador",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/gerenciar_discador"
+      },
+      {
+         "id":"97",
+         "descricao":"Nova Pesquisa",
+         "url":"\/cadastros\/PesquisasCadastraFormaEnvio.php",
+         "categoria":"Pesquisas",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/pesquisas\/nova_pesquisa"
+      },
+      {
+         "id":"98",
+         "descricao":"Consultar Pesquisas",
+         "url":"\/modulos\/ModuloPesquisas.php",
+         "categoria":"Pesquisas",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/pesquisas\/consultar_pesquisa"
+      },
+      {
+         "id":"99",
+         "descricao":"Novo Questionario",
+         "url":"\/cadastros\/QuestionariosCadastra.php",
+         "categoria":"Pesquisas",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/pesquisas\/novo_questionario"
+      },
+      {
+         "id":"100",
+         "descricao":"Consultar Questionarios",
+         "url":"\/modulos\/ModuloQuestionarios.php",
+         "categoria":"Pesquisas",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/pesquisas\/consultar_questionario"
+      },
+      {
+         "id":"101",
+         "descricao":"Nova Despesa",
+         "url":"despesa",
+         "categoria":"Despesas",
+         "tabelaMestre":"des_despesas",
+         "uriRecurso":"res:\/\/com.br\/core_\/despesas\/nova_despesa"
+      },
+      {
+         "id":"102",
+         "descricao":"Consultar Despesas",
+         "url":"consulta-despesa",
+         "categoria":"Despesas",
+         "tabelaMestre":"des_despesas",
+         "uriRecurso":"res:\/\/com.br\/core_\/despesas\/consultar_despesa"
+      },
+      {
+         "id":"103",
+         "descricao":"Novo Adiantamento",
+         "url":"\/cadastros\/AdiantamentosCadastra.php",
+         "categoria":"Despesas",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"104",
+         "descricao":"Consultar Adiantamentos",
+         "url":"\/modulos\/ModuloAdiantamentos.php",
+         "categoria":"Despesas",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"105",
+         "descricao":"Ressarcimento em lote",
+         "url":"\/modulos\/ModuloDespesasPagaLote.php",
+         "categoria":"Despesas",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"106",
+         "descricao":"Editar Perfil",
+         "url":"\/modulos\/ModuloPreferencias.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"107",
+         "descricao":"Configurar Usu\u00e1rios",
+         "url":"\/modulos\/ModuloUsuarios.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"108",
+         "descricao":"Transferir Dados",
+         "url":"\/modulos\/ModuloTransfereDados.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"109",
+         "descricao":"Configurar o  QA (legado)",
+         "url":"\/modulos\/ModuloConfiguraWork.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configurar__QA"
+      },
+      {
+         "id":"110",
+         "descricao":"Depurar Logs SMTP",
+         "url":"\/modulos\/ModuloLogSMTP.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"111",
+         "descricao":"Chamados de Suporte",
+         "url":"\/modulos\/ModuloChamadosSuporte.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"112",
+         "descricao":"Download dos Dados",
+         "url":"\/modulos\/ModuloBackup.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"113",
+         "descricao":"Notas de Release",
+         "url":"\/modulos\/ModuloNotasRelease.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"127",
+         "descricao":"Forecast",
+         "url":"forecast",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"132",
+         "descricao":"Documentos",
+         "url":"documento",
+         "categoria":"",
+         "tabelaMestre":"_documentos",
+         "uriRecurso":"res:\/\/com.br\/core_\/documentos"
+      },
+      {
+         "id":"135",
+         "descricao":"Ferramentas e Redes Sociais",
+         "url":"integracoes",
+         "categoria":"Integra\u00e7\u00f5es",
+         "tabelaMestre":"auth_integracoes_usuario",
+         "uriRecurso":null
+      },
+      {
+         "id":"138",
+         "descricao":"Etapas da Tarefa",
+         "url":"etapa-tarefa",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_tarefas_etapa",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/etapa_tarefa"
+      },
+      {
+         "id":"173",
+         "descricao":"Respons\u00e1veis da Conta",
+         "url":"contas-responsaveis",
+         "categoria":"Contas",
+         "tabelaMestre":"con_contas_responsavel",
+         "uriRecurso":"res:\/\/com.br\/core_\/contas\/responsavel_contas"
+      },
+      {
+         "id":"177",
+         "descricao":"Novo Evento",
+         "url":"evento",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_eventos",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/evento"
+      },
+      {
+         "id":"178",
+         "descricao":"Consultar Eventos",
+         "url":"consulta-evento",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_eventos",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/consulta_evento"
+      },
+      {
+         "id":"182",
+         "descricao":"Tipos de Conta",
+         "url":"tipo-conta",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_conta",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_conta"
+      },
+      {
+         "id":"184",
+         "descricao":"Tipos de Pessoa",
+         "url":"tipo-pessoa",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_pessoa",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_pessoa"
+      },
+      {
+         "id":"180",
+         "descricao":"Consultar A\u00e7\u00f5es",
+         "url":"consulta-acao-eventos",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"_acoes",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/consulta_acao"
+      },
+      {
+         "id":"185",
+         "descricao":"Despesas",
+         "url":"despesa-view-legado",
+         "categoria":"Legado",
+         "tabelaMestre":"v_despesas_legado_x_consolidado",
+         "uriRecurso":"res:\/\/com.br\/core_\/legado\/legado_despesas"
+      },
+      {
+         "id":"186",
+         "descricao":"Campanhas",
+         "url":"campanhas",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/campanhas"
+      },
+      {
+         "id":"187",
+         "descricao":"Contratos",
+         "url":"contrato-view-legado",
+         "categoria":"Legado",
+         "tabelaMestre":"contratos",
+         "uriRecurso":"res:\/\/com.br\/core_\/legado\/legado_contratos"
+      },
+      {
+         "id":"188",
+         "descricao":"Ocorr\u00eancias",
+         "url":"ocorrencia-view-legado",
+         "categoria":"Legado",
+         "tabelaMestre":"ocorrencias",
+         "uriRecurso":"res:\/\/com.br\/core_\/legado\/legado_ocorrencias"
+      },
+      {
+         "id":"189",
+         "descricao":"Oportunidades",
+         "url":"oportunidade-view-legado",
+         "categoria":"Legado",
+         "tabelaMestre":"oportunidades",
+         "uriRecurso":"res:\/\/com.br\/core_\/legado\/legado_oportunidades"
+      },
+      {
+         "id":"194",
+         "descricao":"Endere\u00e7os",
+         "url":"endereco",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_endereco",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/endereco"
+      },
+      {
+         "id":"197",
+         "descricao":"Locais",
+         "url":"local",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_local",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/local"
+      },
+      {
+         "id":"198",
+         "descricao":"Tipos de Endere\u00e7o",
+         "url":"tipo-endereco",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_endereco",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_endereco"
+      },
+      {
+         "id":"201",
+         "descricao":"Status do Evento",
+         "url":"status-evento",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_status_evento",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/status_evento"
+      },
+      {
+         "id":"205",
+         "descricao":"Tipos de Campanha",
+         "url":"tipo-campanha",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_campanha",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_campanha"
+      },
+      {
+         "id":"208",
+         "descricao":"Importador de Registros",
+         "url":"importacoes",
+         "categoria":"Sistema",
+         "tabelaMestre":"_importacoes",
+         "uriRecurso":null
+      },
+      {
+         "id":"211",
+         "descricao":"P\u00fablico alvo",
+         "url":"publico-alvo",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanhas_contas",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/publico_alvo"
+      },
+      {
+         "id":"213",
+         "descricao":"Op\u00e7\u00f5es Abordagem Ativa",
+         "url":"cam-abordagem-ativa",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha_abordagem_ativa",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/abordagem_ativa"
+      },
+      {
+         "id":"202",
+         "descricao":"Funil de venda",
+         "url":"funilvendarelatorio",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"215",
+         "descricao":"Op\u00e7\u00f5es Mala Direta Digital",
+         "url":"cam-mala-direta",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha_email",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/mala_direta_digital"
+      },
+      {
+         "id":"223",
+         "descricao":"A\u00e7\u00f5es Autom\u00e1ticas",
+         "url":"acao-automatica",
+         "categoria":"Sistema",
+         "tabelaMestre":"_acoes_automaticas",
+         "uriRecurso":null
+      },
+      {
+         "id":"224",
+         "descricao":"Listagem de E-mails",
+         "url":"listagem-email",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_listagem_emails",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/listagem_email"
+      },
+      {
+         "id":"228",
+         "descricao":"Registra Atividade",
+         "url":"registra-atividade",
+         "categoria":"Sistema",
+         "tabelaMestre":"cam_campanha_atividade",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/gerenciar_atividade"
+      },
+      {
+         "id":"236",
+         "descricao":"Roteiro da Campanha",
+         "url":"novo-cam-roteiro",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_roteiro",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/novo_cam_roteiro"
+      },
+      {
+         "id":"237",
+         "descricao":"Carteiriza\u00e7\u00e3o Campanha",
+         "url":"gerenciador-operadores-carteirizacao",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha_carteira_operador",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/carteirizacao_campanha"
+      },
+      {
+         "id":"238",
+         "descricao":"Central CTI",
+         "url":"frame-externo?canal-telecom",
+         "categoria":"Campanhas",
+         "tabelaMestre":"https:\/\/api.canaltelecom.com.br\/integrador\/public",
+         "uriRecurso":null
+      },
+      {
+         "id":"241",
+         "descricao":"Nova Conta SGT",
+         "url":"page-externo?sgt-conta",
+         "categoria":"Links Externos",
+         "tabelaMestre":"http:\/\/10.0.100.15\/SGTWeb\/Account\/RedirectToPage?u",
+         "uriRecurso":null
+      },
+      {
+         "id":"242",
+         "descricao":"Novo Pedido SGT",
+         "url":"page-externo?sgt-pedido",
+         "categoria":"Links Externos",
+         "tabelaMestre":"http:\/\/10.0.100.15\/SGTWeb\/Account\/RedirectToPage?u",
+         "uriRecurso":null
+      },
+      {
+         "id":"244",
+         "descricao":"Rotinas",
+         "url":"rotinas-integracoes",
+         "categoria":"Integracoes",
+         "tabelaMestre":"rotinas_integracoes",
+         "uriRecurso":null
+      },
+      {
+         "id":"247",
+         "descricao":"Gerenciamento de Metas",
+         "url":"gerenciamento-metas",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"248",
+         "descricao":"Configurar Sistema",
+         "url":"configuracoes",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configuracoes"
+      },
+      {
+         "id":"250",
+         "descricao":"Configurar Campanhas",
+         "url":"configuracao-campanhas",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configurar-campanhas"
+      },
+      {
+         "id":"251",
+         "descricao":"Configurar Discador",
+         "url":"configuracao-discador",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configurar-discador"
+      },
+      {
+         "id":"252",
+         "descricao":"Minhas Metas (incompleto)",
+         "url":"minhas-metas",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"255",
+         "descricao":"Acompanhar Meta (incompleto)",
+         "url":"acompanhar-metas",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"256",
+         "descricao":"Painel de Metas (incompleto)",
+         "url":"painel-metas",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"257",
+         "descricao":"Feriados",
+         "url":"feriados",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_feriados",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/feriados"
+      },
+      {
+         "id":"260",
+         "descricao":"Cadastro de Views",
+         "url":"cadastro-views",
+         "categoria":"Sistema",
+         "tabelaMestre":"_integracao_views",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/cadastro_views"
+      },
+      {
+         "id":"234",
+         "descricao":"Gerenciar Agendamentos",
+         "url":"gerenciador-agendamentos",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanhas_agendamento_abordagem",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/gerenciador_agendamentos"
+      },
+      {
+         "id":"262",
+         "descricao":"Meta Individual (incompleto)",
+         "url":"meta-individual",
+         "categoria":"Analytics",
+         "tabelaMestre":"ana_metas",
+         "uriRecurso":null
+      },
+      {
+         "id":"263",
+         "descricao":"Configurar Pap\u00e9is do ",
+         "url":"configuracao-permissoes",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":null
+      },
+      {
+         "id":"267",
+         "descricao":"Configurar Empresas",
+         "url":"configuracoes-empresa",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configurar_empresas_filiais"
+      },
+      {
+         "id":"266",
+         "descricao":"Status da Conta",
+         "url":"status-conta",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_status_conta",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/status_conta"
+      },
+      {
+         "id":"265",
+         "descricao":"Tipos de Defeito",
+         "url":"tipo-defeito",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_defeito",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/tipo_defeito"
+      },
+      {
+         "id":"268",
+         "descricao":"Regi\u00f5es",
+         "url":"regioes",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_micro_regiao",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/regioes"
+      },
+      {
+         "id":"264",
+         "descricao":"Concorrentes",
+         "url":"concorrentes",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_concorrentes",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/concorrentes"
+      },
+      {
+         "id":"269",
+         "descricao":"Ratings",
+         "url":"rating",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_ratings",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/rating"
+      },
+      {
+         "id":"276",
+         "descricao":"Gerenciar Usu\u00e1rios",
+         "url":"configuracoes-usuario",
+         "categoria":"Sistema",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configuracoes_usuario"
+      },
+      {
+         "id":"277",
+         "descricao":"Caracteristicas Dependentes",
+         "url":"sub-caracteristicas",
+         "categoria":"Chamados",
+         "tabelaMestre":"cad_caracteristicas",
+         "uriRecurso":null
+      },
+      {
+         "id":"283",
+         "descricao":"Proposta Personalizada",
+         "url":"proposta-personalizada",
+         "categoria":"Cadastros",
+         "tabelaMestre":"pro_template_proposta",
+         "uriRecurso":null
+      },
+      {
+         "id":"288",
+         "descricao":"Telefones da Conta",
+         "url":"telefone-contas",
+         "categoria":"Contas",
+         "tabelaMestre":"con_contas_telefone",
+         "uriRecurso":"res:\/\/com.br\/core_\/contas\/telefones_contas"
+      },
+      {
+         "id":"443",
+         "descricao":"Perfil da Lista",
+         "url":"lista-perfil",
+         "categoria":"Programas",
+         "tabelaMestre":"auth_lista_perfil",
+         "uriRecurso":null
+      },
+      {
+         "id":"465",
+         "descricao":"Minhas Visitas",
+         "url":"minhas-visitas",
+         "categoria":"Principal",
+         "tabelaMestre":"col_compromissos",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/minhas_visitas"
+      },
+      {
+         "id":"287",
+         "descricao":"Endere\u00e7os da Conta",
+         "url":"endereco-contas",
+         "categoria":"Contas",
+         "tabelaMestre":"con_contas_endereco",
+         "uriRecurso":"res:\/\/com.br\/core_\/contas\/enderecos_contas"
+      },
+      {
+         "id":"469",
+         "descricao":"Configurar Timeline Contas",
+         "url":"configurar-timeline-contas",
+         "categoria":"Sistema",
+         "tabelaMestre":"cad_tipo_historico_conta",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configurar_timeline_contas"
+      },
+      {
+         "id":"471",
+         "descricao":"Nova Oportunidade (X)",
+         "url":"oportunidade",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"opo_oportunidades",
+         "uriRecurso":null
+      },
+      {
+         "id":"472",
+         "descricao":"Exibir Dashboard",
+         "url":"\/modulos\/ModuloDashboard.php",
+         "categoria":"Analytics",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/analytics\/novo_dashboard"
+      },
+      {
+         "id":"511",
+         "descricao":"Oportunidade Notifica",
+         "url":"tipo-oportunidade-notifica",
+         "categoria":"Cadastros",
+         "tabelaMestre":"cad_tipo_oportunidade_notifica",
+         "uriRecurso":"res:\/\/com.br\/core_\/cadastros\/oportunidade_notifica"
+      },
+      {
+         "id":"512",
+         "descricao":"Vis\u00e3o Financeira",
+         "url":"\/rotinas-integracoes\/ModuloFinanceiro.php",
+         "categoria":"Legado",
+         "tabelaMestre":null,
+         "uriRecurso":"res:\/\/com.br\/core_\/legado\/legado_visao_financeira"
+      },
+      {
+         "id":"513",
+         "descricao":"Consultar Faturamento",
+         "url":"\/rotinas-integracoes\/ModuloFaturamento.php",
+         "categoria":"Integra\u00e7\u00f5es",
+         "tabelaMestre":null,
+         "uriRecurso":"res:\/\/com.br\/core_\/integracoes\/consultar_faturamento"
+      },
+      {
+         "id":"514",
+         "descricao":"Consultar Estoque",
+         "url":"\/rotinas-integracoes\/ModuloEstoque.php",
+         "categoria":"Integra\u00e7\u00f5es",
+         "tabelaMestre":null,
+         "uriRecurso":"res:\/\/com.br\/core_\/integracoes\/consultar_estoque"
+      },
+      {
+         "id":"515",
+         "descricao":"Rotinas de Integra\u00e7\u00e3o",
+         "url":"\/rotinas-integracoes\/Rotinas.php",
+         "categoria":"Integra\u00e7\u00f5es",
+         "tabelaMestre":null,
+         "uriRecurso":"res:\/\/com.br\/core_\/integracoes\/rotinas"
+      },
+      {
+         "id":"476",
+         "descricao":"Consultar A\u00e7\u00f5es",
+         "url":"\/modulos\/ModuloAcoesContrato.php",
+         "categoria":"Contratos",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/contratos\/consultar_acoes"
+      },
+      {
+         "id":"480",
+         "descricao":"Consultar A\u00e7\u00f5es",
+         "url":"\/modulos\/ModuloAcoesOcorrencia.php",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/ocorrencias\/consultar_acoes"
+      },
+      {
+         "id":"482",
+         "descricao":"Consultar A\u00e7\u00f5es",
+         "url":"\/modulos\/ModuloAcoesOportunidade.php",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/consultar_acoes"
+      },
+      {
+         "id":"534",
+         "descricao":"Estatisticas de Acesso",
+         "url":"estatistica-acesso-usuario",
+         "categoria":"Sistema",
+         "tabelaMestre":"log_acesso",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configuracoes_usuario"
+      },
+      {
+         "id":"533",
+         "descricao":"Consultar Liga\u00e7\u00f5es",
+         "url":"log-ligacao",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"_log_ligacao",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/log_ligacao"
+      },
+      {
+         "id":"537",
+         "descricao":"Consultar Adiantamentos",
+         "url":"consulta-adiantamento",
+         "categoria":"Despesas",
+         "tabelaMestre":"des_despesas_adiantamento",
+         "uriRecurso":"res:\/\/com.br\/core_\/despesas\/consultar_adiantamentos"
+      },
+      {
+         "id":"536",
+         "descricao":"Novo Adiantamento",
+         "url":"adiantamento",
+         "categoria":"Despesas",
+         "tabelaMestre":"des_despesas_adiantamento",
+         "uriRecurso":"res:\/\/com.br\/core_\/despesas\/novo_adiantamento"
+      },
+      {
+         "id":"538",
+         "descricao":"Ressarcir Despesas",
+         "url":"ressarcir-despesas",
+         "categoria":"Despesas",
+         "tabelaMestre":"des_despesas",
+         "uriRecurso":"res:\/\/com.br\/core_\/despesas\/ressarcir_despesas"
+      },
+      {
+         "id":"539",
+         "descricao":"Transferir Dados",
+         "url":"transferencia-dados",
+         "categoria":"Sistema",
+         "tabelaMestre":"usu_transferencia_posse_registro",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/transferencia-dados"
+      },
+      {
+         "id":"540",
+         "descricao":"Prefer\u00eancias Gerais Legado",
+         "url":"\/cadastros\/PerfisAltera.php",
+         "categoria":"Sistema",
+         "tabelaMestre":"auth_perfil_permissao_geral",
+         "uriRecurso":"res:\/\/com.br\/core_\/sistema\/configuracoes_usuario"
+      },
+      {
+         "id":"120",
+         "descricao":"Programas",
+         "url":"programa",
+         "categoria":"Programas",
+         "tabelaMestre":"auth_programa",
+         "uriRecurso":null
+      },
+      {
+         "id":"545",
+         "descricao":"Caixa de Emails",
+         "url":"mail-box",
+         "categoria":"Principal",
+         "tabelaMestre":"_caixa_email",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/caixa_email"
+      },
+      {
+         "id":"541",
+         "descricao":"Integra\u00e7\u00f5es do Usuario",
+         "url":"user-external-applications",
+         "categoria":null,
+         "tabelaMestre":"auth_integracoes_usuario",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/integracao_usuario"
+      },
+      {
+         "id":"100000",
+         "descricao":"Novo Compromisso",
+         "url":"compromisso",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_compromissos",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/compromisso"
+      },
+      {
+         "id":"100001",
+         "descricao":"Consultar Compromissos",
+         "url":"consulta-compromisso",
+         "categoria":"Colaborativo",
+         "tabelaMestre":"col_compromissos",
+         "uriRecurso":"res:\/\/com.br\/core_\/colaborativo\/consulta_compromisso"
+      },
+      {
+         "id":"100003",
+         "descricao":"Consultas do Dossi\u00ea",
+         "url":"anonimizacoes-lgpd",
+         "categoria":"LGPD",
+         "tabelaMestre":"lgpd_log",
+         "uriRecurso":"res:\/\/com.br\/core_\/lgpd\/consulta_dossie"
+      },
+      {
+         "id":"100004",
+         "descricao":"Dossi\u00ea",
+         "url":"dossier",
+         "categoria":"LGPD",
+         "tabelaMestre":"lgpd_referencia",
+         "uriRecurso":"res:\/\/com.br\/core_\/lgpd\/dossie"
+      },
+      {
+         "id":"100005",
+         "descricao":"Configurar Informa\u00e7\u00f5es do Dossi\u00ea",
+         "url":"configurar-informacoes-dossie",
+         "categoria":"LGPD",
+         "tabelaMestre":"lgpd_referencia_dossie",
+         "uriRecurso":null
+      },
+      {
+         "id":"110000",
+         "descricao":"Avalia\u00e7\u00f5es do Compromisso",
+         "url":"avaliacao-compromisso",
+         "categoria":"Compromissos",
+         "tabelaMestre":"col_compromissos_participantes",
+         "uriRecurso":"res:\/\/com.br\/core_\/compromissos\/avaliacao_compromisso"
+      },
+      {
+         "id":"110001",
+         "descricao":"Marketing Intelligence",
+         "url":"marketing-intelligence",
+         "categoria":null,
+         "tabelaMestre":"con_contas",
+         "uriRecurso":null
+      },
+      {
+         "id":"294",
+         "descricao":"Defini\u00e7\u00f5es da Conta",
+         "url":"contas-definicoes",
+         "categoria":"Contas",
+         "tabelaMestre":"con_definicoes_conta",
+         "uriRecurso":"res:\/\/com.br\/core_\/contas\/definicao_contas"
+      },
+      {
+         "id":"150001",
+         "descricao":"Consultar Campanhas Grafico",
+         "url":"custom?consulta-campanhas",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/campanhas"
+      },
+      {
+         "id":"150002",
+         "descricao":"Consultar Contas Campanhas Grafico",
+         "url":"custom?consulta-campanhas",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/campanhas"
+      },
+      {
+         "id":"150003",
+         "descricao":"Consultar Contas Campanhas Grafico",
+         "url":"custom?consulta-campanhas",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanha",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/campanhas"
+      },
+      {
+         "id":"125000",
+         "descricao":"Consultar Oportunidades",
+         "url":"consulta-oportunidades",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"oportunidades",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/v2\/consultar_oportunidade"
+      },
+      {
+         "id":"125001",
+         "descricao":"Proposta",
+         "url":"oportunidades-proposta",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"oportunidades_proposta",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/v2\/oportunidade_proposta"
+      },
+      {
+         "id":"125002",
+         "descricao":"Concorrentes",
+         "url":"custom?oportunidades-concorrentes",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"oportunidades_concorrente",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/v2\/oportunidades_concorrente"
+      },
+      {
+         "id":"125003",
+         "descricao":"Produtos",
+         "url":"oportunidades-proposta-produtos",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"oportunidades_produto",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/v2\/oportunidades_produto"
+      },
+      {
+         "id":"125004",
+         "descricao":"Servi\u00e7os",
+         "url":"oportunidades-proposta-servicos",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"oportunidades_servico",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/v2\/oportunidades_servico"
+      },
+      {
+         "id":"125005",
+         "descricao":"Nova Oportunidade",
+         "url":"nova-oportunidade",
+         "categoria":"Oportunidades",
+         "tabelaMestre":"oportunidades",
+         "uriRecurso":"res:\/\/com.br\/core_\/oportunidades\/v2\/nova_oportunidade"
+      },
+      {
+         "id":"125006",
+         "descricao":"Discador Detalhes da Conta",
+         "url":"discador-detalhes-conta",
+         "categoria":"Campanhas",
+         "tabelaMestre":"cam_campanhas",
+         "uriRecurso":"res:\/\/com.br\/core_\/campanhas\/discador_detalhes_conta"
+      },
+      {
+         "id":"135000",
+         "descricao":"Filtro de Ocorr\u00eancias",
+         "url":"custom?ocorrenciasFiltro",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"ocorrenciasFiltro",
+         "uriRecurso":null
+      },
+      {
+         "id":"135200",
+         "descricao":"Ocorr\u00eancias(X)",
+         "url":"custom?ocorrencias",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"ocorrencias",
+         "uriRecurso":null
+      },
+      {
+         "id":"135201",
+         "descricao":"Produtos",
+         "url":"custom?ocorrencias_produtos",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"ocorrencias_produto",
+         "uriRecurso":null
+      },
+      {
+         "id":"135202",
+         "descricao":"Servi\u00e7os",
+         "url":"custom?ocorrencias_servico",
+         "categoria":"Ocorr\u00eancias",
+         "tabelaMestre":"ocorrencias_servico",
+         "uriRecurso":null
+      },
+      {
+         "id":"155100",
+         "descricao":"Gerenciar Usu\u00e1rios Restritos",
+         "url":"restricted-user",
+         "categoria":"Sistema",
+         "tabelaMestre":"auth_usuario",
+         "uriRecurso":"res://com.br/core_/sistema/usuarios-restritos"
+      },
+      {
+         "id":"155200",
+         "descricao":"Importa\u00e7\u00e3o",
+         "url":"import-file-csv",
+         "categoria":"Sistema",
+         "tabelaMestre":null,
+         "uriRecurso":null
+      }
+   ]
+}

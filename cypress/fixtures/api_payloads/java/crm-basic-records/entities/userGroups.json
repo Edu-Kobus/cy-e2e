@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "company": {
+      "id": 1
+    },
+    "name": "Teste Java - API",
+    "active": true,
+    "note": "string",
+    "customFields": {
+        "name": "Onething"
+    }
+  }

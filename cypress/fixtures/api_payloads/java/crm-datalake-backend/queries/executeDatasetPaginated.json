@@ -1,0 +1,11 @@
+{
+    "id": "dataset://factory/default/datalake/intelligence-minimum-account-id",
+    "filters": [
+        {
+            "key": "companies.id_receita_companies",
+            "logicalOperator": "AND",
+            "relationalOperator": "IN",
+            "value": ["80680093000181"]
+        }
+    ]
+}

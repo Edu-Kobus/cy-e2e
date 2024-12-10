@@ -1,0 +1,14 @@
+{
+    "name": "Cypress OccurenceStatus - Test API JAVA",
+    "companyBranch": {
+        "id": 1
+    },
+    "defaultColor": "red",
+    "occurrenceStarts": true,
+    "occurrenceEnds": true,
+    "displayOrder": 1,
+    "active": true,
+    "customFields": {
+        "testField": "customField"
+    }
+}

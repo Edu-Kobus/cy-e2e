@@ -1,0 +1,16 @@
+{
+    "tipo_telefone": {
+        "nome": "Celular",
+        "valor": "2"
+    },
+    "operadora": {
+        "nome": "Tim",
+        "valor": "2"
+    },
+    "principal": 0,
+    "numero": "47989568745",
+    "conta": "1",
+    "origem": {
+        "conta": "1"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Test API JAVA - Cypress",
+    "company": {
+        "id": 1
+    },
+    "active": true,
+    "customFields": {
+        "name": "Onething"
+    }
+}

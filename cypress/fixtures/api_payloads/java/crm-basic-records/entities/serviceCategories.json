@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "idErp": "1",
+    "company": {
+      "id": 1
+    },
+    "name": "string",
+    "active": true,
+    "customFields": {
+        "name": "Onething"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "tipo_telefone": {
+        "nome": "Telefone",
+        "valor": "1"
+    },
+    "operadora": {
+        "nome": "Oi",
+        "valor": "1"
+    },
+    "principal": 0,
+    "numero": "48998152653",
+    "conta": "1",
+    "origem": {
+        "conta": "1"
+    }
+}

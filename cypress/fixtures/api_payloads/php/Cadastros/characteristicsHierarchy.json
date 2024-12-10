@@ -1,0 +1,19 @@
+{
+    "id": 17,
+    "caracteristicaFilha": {
+        "id": 1,
+        "nome": "Forma de contato",
+        "ativo": true,
+        "empresa": {
+            "id": 1
+        }
+    },
+    "caracteristicaPai": {
+        "id": 1,
+        "nome": "Forma de contato",
+        "ativo": true,
+        "empresa": {
+            "id": 1
+        }
+    }
+}
